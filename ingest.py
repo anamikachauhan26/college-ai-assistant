@@ -19,10 +19,7 @@ def chunk_text(text, chunk_size=300, overlap=50):
     return chunks
 
 def embed(text):
-    result = client.models.embed_content(
-        model="text-embedding-004",
-        contents=text
-    )
+    result = client.models.embed_content(model="gemini-embedding-001", contents=text)
     return result.embeddings[0].values
 
 def ingest():

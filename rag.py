@@ -9,7 +9,7 @@ chroma_client = chromadb.PersistentClient(path="./chroma_db")
 collection = chroma_client.get_or_create_collection("college_docs")
 
 def embed(text):
-    result = client.models.embed_content(model="text-embedding-004", contents=text)
+    result = client.models.embed_content(model="gemini-embedding-001", contents=text)
     return result.embeddings[0].values
 
 def answer_question(question, top_k=3):
