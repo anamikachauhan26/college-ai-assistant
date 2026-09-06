@@ -1,3 +1,4 @@
+from unittest.mock import patch
 from fastapi.testclient import TestClient
 from main import app
 from ingest import chunk_text
@@ -10,7 +11,8 @@ def test_chunking_produces_chunks():
     assert len(chunks) > 1
 
 def test_ask_endpoint_returns_answer():
-    response = client.post("/ask", json={"question": "What are the exam dates?"})
-    assert response.status_code == 200
-    assert "answer" in response.json()
-    assert "sources" in response.json()
+    fake_result = {"answer": "Attendance must be at least 75%.", "sources": ["academic_rules.txt"]}
+    with patch("main.answer_question", return_value=fake_result):
+        response = client.post("/ask", json={"question": "What are the exam dates?"})
+        assert response.status_code == 200
+        assert response.json() == fake_result
