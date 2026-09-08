@@ -1,0 +1,478 @@
+Department of Electronics
+23/07/2026
+WCE25
+AICTE ATAL FDP on “RECONFIGURABLE INTELLIGENT SURFACES FOR WIRELESS COMMUNICATIONS” from 7-12 September 2026
+Department of Electronics
+
+--- Linked PDF content ---
+
+ 
+ 
+ABOUT THE INSTITUTE   
+ 
+Walchand College of Engineering 
+Sangli (WCE), established in 1947 and 
+aided by the Government of 
+Maharashtra, is one of the oldest and 
+premier engineering institutions in 
+India. With a rich history of over 70 
+years and a beautiful campus of over 
+90 acres, we are providing 
+transformational learning experiences 
+in various disciplines of engineering. 
+WCE offers 4 diploma programs, 6 UG 
+programs in Civil, Electrical, 
+Mechanical, Electronics, Information 
+technology, computer science, and 
+engineering, and 10 PG p rograms. It 
+also offers Ph.D. programs under 
+Shivaji University, the National 
+Doctoral Fellowship of AICTE, and the 
+Quality Improvement Program (QIP) 
+scheme of the Ministry of Human 
+Resource Development (MHRD). At 
+present, around 700 students are 
+studying in Diploma programs, 1900 
+students are studying in various 
+B.Tech. programs, 480 students are in 
+M.Tech. programs, and around 75 
+scholars are pursuing their Ph.D. 
+programs. WCE is affiliated with Shivaji 
+University and is approved by AICTE, 
+New Delhi. The institute has also been 
+given autonomous status by the UGC 
+since 2007. The alumni are spread 
+across reputed Multinational and 
+Indian companies such as Google, 
+Microsoft, LinkedIn, Amazon, John 
+Deere, Rakuten, Mahindra, TCS, and 
+Infosys. 
+ 
+VISION OF THE INSTITUTE                 
+To produce capable graduate 
+engineers with an aptitude for 
+research and leadership.  
+ 
+ 
+MISSION OF THE INSTITUTE    
+To impart quality education through 
+demanding academic programs. To 
+enhance career opportunities for 
+students through exposure to 
+industry. To promote excellence by 
+encouraging creativity, critical 
+thinking, and discipline. To inculcate 
+sensitivity toward society and a 
+respect for the environment.  
+ 
+ 
+QUALITY POLICIES  
+To strive for excellence in academic 
+and research and programs in order to 
+achieve proficiency in students by 
+adopting continually improving 
+standards for the learning process. 
+ 
+ABOUT THE ELECTRONICS 
+DEPARTMENT 
+The e lectronics engineering 
+department of Walchand College of 
+Engineering Sangli has a  rich legacy, 
+experienced faculty, well -equipped 
+facilities, and strong industry 
+connections, making it an excellent 
+choice for students interested in 
+pursuing a degree and diploma in 
+electronics discipline. 
+CHIEF PATRON 
+Shri. Ajit Gulabchand, Chairman, 
+Administrative Council, WCE Sangli 
+PATRON 
+ Dr. Pramod Naik, Director  
+Technical Education, Mumbai 
+ Shri. Amol Chavan, Administrative 
+Council Member, WCE Sangli 
+DIRECTOR 
+Dr. Surendra Singh Rathod 
+DEPUTY DIRECTOR 
+Dr. U. A. Dabade 
+COORDINATOR 
+Dr. S. D. Ruikar 
+CO-COORDINATOR 
+ 
+Mr. S. U. Chavan 
+ 
+TEAM MEMBERS 
+ Mr.Dhaigude S.B. 
+ Mr.Parchandekar S.K. 
+ Dr.Mrs.Agashe A.A. 
+ Dr.Tamhankar S.G. 
+ Mr.Mevekari R.G. 
+ Dr.S.N.Kore 
+ Dr.S.V.Vanmore 
+ Miss. S. U. Patil 
+ Mrs. N.S.Babar. 
+ Dr.Mrs R. S. Gaikwad. 
+ Mrs. R. V. Kaulgud 
+ MR. R. V. Phatak 
+ Mrs. K. A. Jadhav 
+ Mrs. P. S. Upadhye 
+ 
+ 
+ 
+“FACULTY 
+DEVELOPMENT   
+PROGRAM” 
+ON 
+“RECONFIGURABLE 
+INTELLIGENT 
+SURFACES FOR 
+WIRELESS 
+COMMUNICATIONS” 
+ 
+7-12 September 2026 
+ 
+Sponsored by AICTE 
+Training and Learning 
+Academy - ATAL   
+ 
+  
+Organized by 
+DEPARTMENT OF ELECTRONICS 
+WALCHAND COLLEGE OF 
+ENGINEERING, SANGLI 
+(Govt. Aided Autonomous Institute) 
+ 
+CONTACT US  
+Walchand College of Engineering  
+(Government Aided Autonomous 
+Institute affiliated to Shivaji 
+University) Vishrambag, Sangli  
+(Maharashtra) - 416415 
+Phone: 0233-2303433  
+Email: director@walchandsangli.ac.in  
+Web: www.walchandsangli.ac.in  
+Coordinator contact: 9422542119 
+Email: sachin.ruikar@walchandsangli.ac.in 
+Co-coordinator Contact: 7798057112 
+Email: sachin.chavan@walchandsangli.ac.in 
+Check more details on 
+https://www.aicte-india.org/atal 
+http://www.walchandsangli.ac.in  
+
+ 
+ 
+ABOUT AICTE - ATAL ACADEMY 
+To empower faculty to achieve goals of 
+Higher Education such as access, 
+equity, and quality. To establish an 
+AICTE Training and Learning (ATAL) cell 
+in all the technical institutions, 
+Universities, Deemed -to universities, 
+and other institutions of technical 
+learning. To build a database of 
+trainers/experts, Video Repositories, 
+Training materials, and training needs 
+for technical institutions. To set up an 
+Academy that will plan and help in 
+imparting quality technical education 
+in the country to support technical 
+institutions in fostering research. 
+innovation, and entrepreneurship 
+through training. 
+ABOUT FDP 
+The objective of AICTE's Training and 
+Learning (ATAL) is to impart quality 
+training through Faculty Development 
+Programmes (FDPs) for Postgraduate 
+students, Research scholars, and 
+Faculty members so that: 
+ 
+The faculty : has sound domain 
+knowledge and associated skills to 
+apply in real life with industry 
+connections.  
+ are equipped with Institutional 
+Leadership skills for academic 
+leadership. 
+ are understanding their roles in 
+community wellbeing, national 
+building, and their own career 
+development. 
+ made r eady with pedagogy -
+requisite teaching skills for 
+instructional delivery.  
+ can effectively communicate 
+knowledge and skill sets to the 
+students in an efficient manner, 
+and their teaching -learning 
+effectiveness is assessed. 
+The students:  
+ are motivated and f ascinated to 
+acquire knowledge and life skills.  
+ understand their roles in 
+community wellbeing, national 
+building, and their own career 
+development.  
+MODE OF CONDUCTION 
+ In house (offline) for both 
+theory and practical/labs/ 
+experiential learning. 
+Duration- Six days  
+TARGET GROUP AND REGISTRATION      
+Lecturer, Assistant Professors, 
+Associate Professors , Ph.D. scholar’s , 
+PG students/Industry. 
+Min/Max Limit - 30/50 participants 
+from higher education institutions 
+Institutions/ Industries.  On first come 
+first serve basis. 
+Participants need to register through 
+AICTE -ATAL portal Registration link. 
+https://atalacademy.aicte-
+india.org/signup 
+CERTIFICATION 
+On completion of the program o n all 
+days, participants will be awarded a 
+certification of participation by the 
+respective ATAL academy, fulfilling all 
+terms and conditions. For more details 
+visit: https://www.aicte-india.org/atal 
+OBJECTIVE OF FDP 
+The objective is to bring together 
+cutting-edge research that advances 
+our understanding of RIS -aided 
+communications. The Objective of the 
+workshops are 
+ To introduce the fundamentals 
+and working principles of RIS.  
+ To explore RIS integrati on in 
+modern wireless systems 
+(5G/6G).  
+ To understand channel modeling, 
+beamforming, and optimization 
+techniques.  
+ To provide hands -on experience 
+using simulation tools 
+(HFSS/MATLAB).  
+ To highlight research challenges 
+and future directions in RIS 
+technology 
+BENEFITS AND OUTCOMES OF FDP 
+Participants will be able to 
+ Understand RIS fundamentals and 
+system architecture,  
+ Analyze RIS -assisted wireless 
+communication systems, Design 
+and simulate RIS-based models ,  
+ Apply RIS concepts in real -world 
+applications, Enabling precise 
+control of electromagnetic waves 
+to enhance communication, 
+ensing, and localisation,  
+ Understand high -speed data 
+transmission, real -time health 
+monitoring, and indoor 
+localisation 
+MAJOR COURSE CONTENTS 
+ Introduction Reconfigurable 
+Intelligent Surface 
+ Electromagnetic wave 
+propagation and Antenna  
+ Beamforming and optimization 
+techniques 
+ Intelligent surfaces of 
+conﬁgurable electromagnetic 
+materials. 
+ Integrated Sensing and 
+Communication 
+ Smart radio environments 
+ UAV-Assisted Intelligent Wireless 
+Systems 
+ Channel modeling and signal 
+processing 
+ Radar positioning, detection and 
+imaging using RIS technology 
+ Cognitive communications and 
+spectrum sharing 
+RESOURCE PERSONS 
+Eminent faculty from Academia 
+/Industry industry experts 
+ Dr S. M. Rathod , Manager in 
+Marine Division at Kalyani 
+Strategic Systems Limited (KSSL), 
+Pune. 
+ Dr. Kasturi Sudam Patil,  Senior 
+Application Engineer, ANSYS [HF], 
+Pune.  
+ Dr. Vivek V. Ratnaparkhi , Staff 
+Engineer-R & D, Tejas Networks, 
+Bangalore, INDIA.  
+ Dr Sanjeev Kumar Mishra , 
+Professor, Department of ETC, IIIT 
+Bhubaneswar, Odisha. 
+ Mr. Vinay M. Honrao , Director - 
+Designated Partner , IND-IoT 
+Automation LLP, Sangli  
+ Dr Amar D. Chaudhari , Sr. RF 
+Design Engineering, Paras 
+Antidrone Technologies, Pune. 
+ Mr. Anirudha Kulkarni, Director at 
+RF AQUA SOLUTIONS(Submarine 
+RF), Pune. 
+ Mr. Bhimrao S Jadhao , Assistant 
+Manager, Kalyani Strategic  
+System Ltd, Pune  
+ Dr. Rajshri Mahajan ,  Senior  Lead 
+Engineering, Lear Corporation, 
+Pune.  
+ Dr Hemant Kumar , Professor, 
+E&TC, Dr. B. R. Ambedkar National 
+Insitute of Technology, Jalandhar
+ 
+ 
+ 
+Session wise Delivery 
+Workshop on Reconfigurable Intelligent Surfaces for Wireless Communications 
+7 to 12 September 2026 
+Session 
+Day 1  Day 2  Day 3  Day 4  Day 5  Day 6  
+9:00 – 9:30  
+Inauguration  
+9:30 – 12:00  
+Session 1  
+Introduction 
+Reconfigurable 
+Intelligent 
+Surface 
+9:30 – 12:00  
+Session 3  
+Beamforming 
+and 
+optimization 
+techniques 
+9:30 – 12:00  
+Session 5  
+Integrated 
+Sensing and 
+Communicatio
+n 
+9:30 – 12:00  
+Session 7  
+UAV-Assisted 
+Intelligent 
+Wireless 
+Systems 
+9:00 – 1:00  
+Industrial visit 
+AVR 
+Technologie
+s (IND-IoT 
+Automation 
+LLP)  
+9:30 – 12:00  
+Session 10  
+Cognitive 
+communication
+s and spectrum 
+sharing 
+12:00 – 1:00  
+Article Discussion  
+12:00 – 1:00  
+Article Discussion  
+12:00 – 1:00  
+Article Discussion  
+12:00 – 1:00  
+Article Discussion  
+12:00 – 1:00  
+Article Summary  
+1:00 – 2:00  
+Lunch  
+1:00 – 2:00  
+Lunch  
+1:00 – 2:00  
+Lunch  
+1:00 – 2:00  
+Lunch  
+1:00 – 2:00  
+Lunch  
+1:00 – 2:00  
+Lunch  
+2:00 – 4:30  
+Session 2 
+Electromagneti
+c wave 
+propagation 
+and Antenna  
+2:00 – 4:30  
+Session 4 
+Intelligent 
+surfaces of 
+conﬁgurable 
+electromagneti
+c materials. 
+2:00 – 4:30  
+Session 6  
+Smart radio 
+environments 
+2:00 – 4:30  
+Session 8  
+Channel 
+modeling and 
+signal 
+processing 
+2:00 – 4:30  
+Session 9  
+Radar 
+positioning, 
+detection and 
+imaging using 
+RIS technology 
+2:00 – 4:00  
+MCQ& 
+Reflection 
+Journal  
+4:30 – 5:30  
+MATLAB 
+Simulation on 
+Electromagneti
+c Analysis of 
+Reconfigurable 
+Intelligent 
+Surface 
+4:30 – 5:30  
+MATLAB 
+Simulation on 
+Model 
+Reconfigurable 
+Intelligent 
+Surfaces with 
+CDL Channels  
+4:30 – 5:30  
+ MATLAB 
+Simulation 
+of RIS with a 
+deterministi
+c channel 
+model 
+4:30 – 5:30  
+ANSYS HFSS 
+Simulation of 
+Design of 
+conformal 
+reconfigurable 
+intelligent 
+surfaces  
+4:30 – 5:30  
+ANSYS HFSS 
+Simulation of 
+Reconfigurable 
+Intelligent 
+Surfaces for 
+Propagation 
+Modeling   
+4:00 – 5:00  
+Valedictory 
+Session  
+ 
+ 
