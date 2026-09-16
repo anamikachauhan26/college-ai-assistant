@@ -1,0 +1,117 @@
+Overview
+Home
+Department of Electrical Engg
+Overview
+Quick Menu
+Overview
+B. Tech. Curriculum with Minors
+M. Tech Specialisations and Curriculum
+Diploma Curriculum
+Academic Planning & Activities
+Department Resources
+Faculty
+Students Development
+Achievements/ Organizations/ Contributions/ Faculty latest Publications
+Overview:  Department of Electrical Engineering
+Through its long existence since 1955, Electrical Engineering Department of Walchand College of Engineering, Sangli has earned a great reputation and has become well known not only in our country, but also in the world through his alumni spread across the length and breadth of the globe. The Department was the second to be established in 1955 after Civil Engineering in 1947. Consequent to inception of the department, PG courses in two specializations, namely, Power System Engineering and Control System Engineering were started in the year 1971.
+The Department offers a four-year course leading to the Bachelor’s Degree in Electrical Engineering (B. Tech.) and a two-year course leading to Master’s degree (M. Tech.) in Power System Engineering and Control System Engineering. Also, as a new initiative, there is provision for separate intake for working professionals with intake capacity of 30 students.
+The Department has well-equipped laboratories, excellent computational facilities and software like MATLAB,  PSIM, Proteus, Keil, ETAP and AutoCAD – Electrical are available  to work on top-of-the-line projects in various areas of electrical engineering fields. The department has PLC and Automation lab with well-equipped Siemens PLC’s and VFD’s along with latest TIA software.
+Department is a recognized research centre of Shivaji university of Kolhapur and also minor centre for QIP research scheme. Department also runs Ph. D. programme under AICTE Doctoral Fellowship (ADF) scheme.
+The department has produced alumina working in many top industries like Siemens, General Electric TATA power, Adani Power, Bajaj, TATA motors, Atlas Copco and many more.
+Objectives
+The Department of Electrical Engineering aims to achieve the following objectives:
+Provide Quality Education:
+Deliver a comprehensive, industry-relevant curriculum to empower students with foundational knowledge, technical skills, and problem-solving abilities in the field of computer science and engineering.
+Maintain Academic Excellence:
+Continuously improve teaching methodologies, resources, and infrastructure to deliver a world-class educational experience that meets the highest academic standards.
+Encourage Research and Innovation:
+Promote a culture of research by encouraging students and faculty to explore emerging technologies, develop innovative solutions, and contribute to in core fields like Electrical machines, Power system, Control system and applications of advanced technologies like Artificial intelligence, machine learning applications in Electrical domain.
+Developing practical, ethical and professional skills:
+Enhancing student’s abilities to design, develop, and implement electrical systems and strong sense of ethical responsibility and professional conduct within the engineering field.
+Connecting with industry and research organizations:
+Promoting collaboration with industry partners and research organizations to bridge the gap between academic learning and practical applications as per industry requirements.
+Encourage Lifelong Learning:
+Encourage the importance of continuous learning and adaptability, preparing graduates to keep pace with the rapid evolution of technology and industry demands.
+Strengthen Industry-Academia Collaboration:
+Establish partnerships with leading companies and research organizations to provide students with exposure to real-world challenges, internships, placements, and collaborative projects.
+Promote Entrepreneurship and Leadership:
+Develop entrepreneurial skills and leadership qualities among students, inspiring them to create start-ups, lead teams, and innovate in the tech ecosystem.
+Contribute to Society:
+Develop socially responsible engineers by engaging students in projects and activities that address societal challenges, leveraging technology
+Policy
+The Department of Electrical Engineering is committed to maintain the high standards of education, research, and professional integrity. Guided by its mission to substitute excellence in computing and technology.
+Vision
+To be an Electrical Engineering program of the choice by the aspiring student and prospective employers by implementing world class education practices.
+Mission
+To implement Outcome Based Education Philosophy effectively by,
+Adopting dynamic academic curricula and implementing innovative teaching learning process and research practices.
+Providing opportunities to students for development of professional skills.
+Nurturing critical thinking and creativity in the students.
+Inculcate in the student’s life-long learning attitude and sensitivity towards society & environment.
+Strength
+The Department of Electrical Engineering stands out for its key strengths, which include:
+Experienced and Dedicated Faculty
+Industry oriented curriculum
+Well-equipped labs with advanced machines and software’s
+Research and Innovation
+Strong Industry Connections
+High Placement Record
+Global Alumni Network
+Good placement record
+These strengths collectively position the department as a leader in Electrical Engineering education, research, and innovation.
+Areas of Expertise
+The Department of Electrical and Engineering excels in the following areas of expertise:
+Electrical Power System – Operation and Control
+Switchgear and Protection
+Neural network and Fuzzy technology
+Renewable Energy sources
+Electric Vehicle Technology
+Energy storage devices for EV
+Power Electronics and Drives
+Application of Power Electronics in Power System
+Advanced Electrical Machines and Electrical machine design
+Power Quality and Harmonics
+Signal processing
+These areas of expertise enable the department to provide students with advanced knowledge and practical skills, preparing them for leadership roles in the ever-evolving technology landscape.
+Salient Department Features
+The Department of Electrical and Engineering at Walchand College of Engineering stands out for its unique features and strengths, including:
+Academic Excellence:
+Industry-aligned curriculum focusing on foundational and advanced topics.
+Highly qualified faculty with expertise in cutting-edge technologies. Nearly 40% of faculties awarded PhD and nearly 40% registered for PhD.
+Well-equipped labs with advanced machines and software’s:
+Modern electrical labs are equipped with high advanced electrical machines and equipment’s to meet the high standards of reputed industries.
+The department has computer lab with latest high performing computers and access to advance software’s like MATLAB, ETAP, PSIM and Proteus etc.
+Research and Innovation:
+Active research in emerging fields like Electrical Power Systems, Power Quality, Electric Vehicle, Energy Management System and Battery Management Systems, etc.
+Regular publications in reputed journals and conference participations with Scopus and SCI indexing.
+Strong Industry Interface:
+Collaborations with leading tech companies for internships, placements, and projects.
+Industry-expert guest lectures, workshops, and certifications.
+Skill Development Opportunities:
+Emphasis on hands-on learning through hackathons, coding challenges, and projects.
+Active technical clubs and student organizations fostering innovation.
+Global Competence:
+Alumni placed in top organizations and pursuing higher education globally.
+Exposure to international competitions and exchange programs.
+Student-Centric Environment:
+Personalized mentoring by faculty for academic and professional growth.
+Focus on holistic development through extracurricular and co-curricular activities.
+Placement Excellence:
+High placement rates with opportunities in top companies like Tata Power, Reliance Power, and IT Industries.
+Dedicated training for technical interviews, coding tests, and soft skills.
+Continuous Improvement:
+Regular updates to the curriculum and teaching methodologies.
+Feedback-driven enhancements for a superior learning experience.
+Leadership
+DR. VIJAY MOHALE
+(PH.D. IIT ROORKEE)
+Vijay Mohale (Senior Member, IEEE) is received his Bachelor’s Degree in Electrical Engineering and Master’s Degree in Electrical Power Systems from Shivaji University, Kolhapur, India, in 2011 and 2013, respectively. He completed his Doctoral Degree in the Power System Oscillation from the Power Electronics and Hydro-Electric Machines Laboratory at the Indian Institute of Technology (IIT) Roorkee, India (2023). Currently, working as a Head of Electrical Department at Walchand College of Engineering, Sangli, India.
+Dr. Mohale’s research interests include Power Systems Transients, Electromagnetic Compatibility, Sustainable Energy Transition, and Power Electronics for Renewable Grid Resilience. He has been granted Seven Indian Patents and Two Australian Patents. He is a Chartered Engineer and a Life Member of several professional organizations, including IEI, CMSI, IWRS, ISTE, and SPE. Recognized as a Postgraduate Teacher and a Research Supervisor for Ph.D. at Shivaji University, Kolhapur, Dr. Mohale actively contributes to both Academic and Industry-linked Research. He has made significant contributions to the field of Electrical Engineering through both Academic and Professional Interest. He received the IITR Travel Support to attend the 2021 IEEE IAS Annual Meeting held in Canada (October 10-14, 2021) and the CSIR Travel Support to participate in the 2022 IEEE IAS Annual Meeting in the USA (October 9-13, 2022) under Young Scientist Scheme. He has also been recognized as a Young Professional by IEEE for consecutive years, 2022 and 2023, in acknowledgment of his contributions.
+Dr. Mohale’s commitment extends to hands-on learning, as he has arranged over 20 Industrial Visits to give Students practical insights into Industry Practices. He has also undertaken various Consultancy Projects, contributing his expertise in Energy Systems and Renewable Energy Applications to solve Real-World Industry Challenges. He is the author of the Book Power Electronics and Its Application, published by Khanna Publications, New Delhi and Steam Turbine in Thermal Power Plant – Practical Case Studies and Engineering Solutions accepted by CRC Press, Taylor & Francis. Dr. Mohale has presented his work at various prestigious International Conferences (27) and has published in reputed IEEE top tier Journals (5). He was awarded the Best Poster Award at the Institute Research Day (2022) at IIT Roorkee and the Best Paper Award at NIT Warangal (2024).
+Share this page,
+Search
+Search
+Follow Us
+Facebook
+Linkedin
+Instagram

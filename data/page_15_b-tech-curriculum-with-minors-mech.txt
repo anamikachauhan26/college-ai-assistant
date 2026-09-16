@@ -1,0 +1,3107 @@
+B.Tech Curriculum with Minors
+Home
+Department of Mechanical Engineering
+B.Tech Curriculum with Minors
+Quick Menu
+Overview
+B.Tech Curriculum with Minors
+M.Tech Specialisations and Curriculum
+Academic Planning & Activities
+Resources
+Faculty
+Students Development
+Achievements
+B. Tech Curriculum with Minors
+Program Educational Objectives (PEOs):
+Graduates of Mechanical Engineering programme after a span of three to four years of their graduation will:
+PEO1 :
+Demonstrate technical competency by applying knowledge to solve problems related to engineering issues.
+PEO2 :
+Exhibit skills and appropriate attitude to succeed in their professional career.
+PEO3 :
+Display thirst for emerging technologies and quest for innovation with concern to society and environment.
+Programme Outcomes (POs):
+The students after successfully completing this programme will have an ability to:
+PO 1. Engineering knowledge :
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO 2.
+Problem analysis :
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO 3. Problem analysis :
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO 4. Conduct investigations of complex problems :
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO 5. Modern tool usage :
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO 6. The engineer and society :
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO 7. Environment and sustainability :
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO 8. Ethics :
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO 9. Individual and team work :
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO 10. Communication :
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO 11. Project management and finance :
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO 12. Life-long learning :
+Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Outcomes (PSO’s):
+PSO-1 :
+Students will develop an ability to successfully apply the design, thermal and manufacturing principles to analyze and interpret the problems of mechanical engineering or interdisciplinary nature in real time situations and provide analytical and/or software solutions for their overall development.
+PSO-2 :
+Students will be able to impart technological inputs and acquire managerial skills to become technocrats and entrepreneurs to build the nation, by developing new concepts in emerging fields through intellectual property rights, tech startups and pursuing higher education.
+Outcome-Based Educational Philosophy – Mechanical Engineering
+Outcome-Based Education (OBE)
+is a student-centric educational approach that emphasizes the achievement of clearly defined learning outcomes. For a
+B.Tech in Mechanical Engineering
+, the OBE philosophy supports the program’s mission to nurture competent mechanical engineers equipped to address real-world challenges through design, analysis, and application of mechanical systems and emerging technologies.
+1. Focus on Graduate Attributes:
+OBE promotes the development of essential graduate attributes such as:
+Analytical and problem-solving skills
+Design and innovation thinking
+Teamwork and leadership
+Effective communication
+Ethical and environmental responsibility
+These attributes are crucial for mechanical engineers working in interdisciplinary and industrial environments.
+2. Student-Centered Learning:
+The teaching-learning process is designed to address the diverse learning styles, backgrounds, and professional aspirations of students. This ensures that all learners achieve the intended outcomes through active and personalized learning experiences.
+3. Clear Definition of Learning Outcomes:
+Learning outcomes are structured across three levels:
+Program Outcomes (POs):
+Broad competencies such as thermodynamics understanding, mechanical design, project management, and professional ethics.
+Program Specific Outcomes (PSOs):
+Domain-specific capabilities such as CAD/CAM proficiency, manufacturing process expertise, thermal system analysis, and use of modern engineering tools.
+Course Outcomes (COs):
+Detailed outcomes at the course level (e.g., the ability to apply heat transfer principles to solve industrial problems).
+4. Alignment Across Levels:
+The mechanical engineering curriculum, pedagogy, and evaluation strategies are consistently aligned to achieve the defined COs, PSOs, and POs. Teaching methods such as simulations, labs, case studies, and design projects are used to ensure meaningful learning.
+5. Continuous Assessment and Feedback:
+OBE involves regular monitoring of student progress using rubrics, performance metrics, peer assessments, and industry feedback. This promotes timely identification of gaps and enables continuous curriculum and instruction improvement.
+6. Preparation for Lifelong Learning:
+Students are trained to embrace lifelong learning through independent projects, MOOCs, internships, and interdisciplinary work. This ensures they stay updated with advancements in areas such as automation, sustainability, materials engineering, and Industry 4.0.
+Structure:
+First Year: Sem-I
+Sr.No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/LA1
+ISE/LA2
+ESE
+Professional Core (Theory)
+BSC
+7MA101
+Engineering Mathematics-I
+BSC
+7CH101
+Engineering Chemistry
+ESC
+7ME107
+Engineering Graphics
+ESC
+7EE106
+Electrical & Electronics Engineering
+PCC
+7CS106
+Elements of Mechanical Engineering
+Professional Core (Lab)
+BSC
+7CH155
+Engineering Chemistry Lab
+ESC
+7ME157
+Computer Programming
+ESC
+7EE156
+Engineering Graphics Lab
+ESC
+7ME101
+Electrical & Electronics Engineering Lab
+PCC
+7ME151
+Elements of Mechanical Engineering Lab
+VSEC
+7VS152
+Engineering Skills-II
+Total
+First Year: Sem-II
+Sr.No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/LA1
+ISE/ LA2
+ESE
+Professional Core (Theory)
+BSC
+7MA104
+Engineering Mathematics- II
+BSC
+7CH103
+Engineering Physics
+ESC
+7EE106
+Engineering Mechanics
+ESC
+7CS102
+Basic Civil Engineering
+PCC
+Manufacturing System
+Professional Core (Lab)
+7CH155
+Engineering Physics Lab
+7EE156
+Engineering Mechanics Lab
+7CS108
+Basic Civil Engineering Lab
+7ME108
+Manufacturing System Lab
+7CS152
+Engineering Physics Lab
+7VS152
+Engineering Skills II
+Total
+Second Year: Sem-III
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/LA1
+ISE/LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7ME201
+Thermodynamics
+PCC
+7ME202
+Materials Science and Metallurgy
+PCC
+7ME203
+Strength of Materials
+PCC
+7ME204
+Manufacturing Processes
+Professional Core (Lab)
+PCC
+7ME251
+Thermodynamics Lab
+POE
+PCC
+7ME252
+Materials Science and Metallurgy Lab
+Mandatory Courses
+BSC
+7MA202
+Mathematics for Mechanical Engineers
+EEM
+7EE201
+Understanding Incubation and Entrepreneurship
+VEC
+7VE201
+Value Education
+VESC
+7VSME251
+Workshop Practice
+Total
+Second Year: Sem-IV
+Sr.No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/LA1
+ISE/LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7ME221
+Fluid Mechanics and Fluid Machines
+PCC
+7ME222
+Kinematics and Theory of Machines
+PCC
+7ME223
+Manufacturing Processes – II
+Professional Core (Lab)
+PCC
+7ME271
+Fluid Mechanics and Fluid Machines Lab
+POE
+PCC
+7ME272
+Kinematics and Theory of Machines Lab
+POE
+Multi-Disciplinary Minor (Minor)
+MDM
+Refer List
+MDM
+Mandatory Courses
+ESC
+7ESME201
+Numerical Methods
+AEC
+7AE201
+Employability Skills
+IKS
+Refer List
+IKS Elective
+VSEC
+7VS271
+Computer Aided Design and Drafting Lab
+POE
+CEP/FP
+7CE271
+Field Study’s
+Total
+Third Year: Sem-V
+Sr. No.
+Category
+Course Code
+Course Name
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+Professional Core (Theory)
+PCC
+7ME301
+Heat Transfer
+PCC
+7ME302
+Applied Thermodynamics
+PCC
+7ME303
+Engineering Metrology
+PCC
+7ME304
+Design of Machine Elements
+Professional Core (Lab)
+PCC
+7ME351
+Heat Transfer Lab
+POE
+PCC
+7ME352
+Applied Thermodynamics Lab
+POE
+PCC
+7ME353
+Engineering Metrology and Manufacturing Technology Lab
+POE
+Open Elective
+Refer List
+Open Elective -1
+Multi-Disciplinary Minor (MDM)
+MDM
+Refer List
+MDM
+Mandatory Courses
+VEC
+7VE301
+Environmental Science
+Total
+Third Year: Sem-VI
+Sr. No.
+Category
+Course Code
+Course Name
+MSE/LA1
+ISE/LA2
+ESE
+Ext
+Professional Core (Theory)
+PCC
+7ME321
+Machine Design
+PCC
+7ME322
+Mechatronics and Automation
+7ME323
+Computational Methods for Structures and Fluids
+Professional Core (Lab)
+PCC
+7ME371
+Mechatronics and Automation Lab
+POE
+PCC
+7ME372
+Computational Methods for Structures and Fluids Lab
+POE
+Professional Elective
+PEC
+Refer List
+Professional Elective -1
+Open Elective
+Refer List
+Open Elective -2
+Multi-Disciplinary Minor (MDM)
+MDM
+Refer List
+MDM
+Mandatory Courses
+EEM
+7EE301
+Finance for Engineering
+VSEC
+7VSME371
+Mini-Project
+Total
+Professional Elective Course List for Third Year: Sem-VI
+Sr. No
+Course Code
+Course Name
+Professional Elective-1
+7ME331
+Computer Aided Design and Drafting
+7ME332
+Product Life cycle Management
+7ME333
+Computer Aided Manufacturing
+7ME334
+Additive Manufacturing
+Final Year B Tech: SEM-VII
+Sr. No.
+Category
+Course Code
+Course Name
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+Professional Core (Theory)
+6ME401
+Mechanical Vibrations
+6ME402
+Refrigeration and Air Conditioning
+6ME403
+Instrumentation and Control
+Professional Core (Lab)
+6ME451
+Mechanical Vibrations Lab
+6ME452
+Refrigeration and Air Conditioning Lab
+POE
+6ME453
+Techno-Socio Activity
+6ME491
+Project-I
+Professional Elective
+Refer List
+Professional Elective-5
+Open Elective
+Refer List
+Open Elective-3
+AICTE Mandatory Course
+6IC401
+Constitution of India
+Total
+List of Professional Elective for Final Year B Tech: SEM-VII
+Sr. No.
+Track
+Course Code
+Course Name
+Professional Elective-5
+Production Engg.
+6ME411
+Industrial Engineering
+Design Engg.
+6ME412
+Solid Mechanics
+Thermal Engg.
+6ME413
+Cryogenics
+Final Year B Tech: SEM-VII
+Sr. No.
+Category
+Course Code
+Course Name
+MSE/LA1
+ISE/LA2
+ESE
+Ext
+Professional Core (Theory)
+6ME421
+Automobile Engineering
+Professional Core (Lab)
+6ME492
+Project-II
+Professional Elective
+Refer List
+Professional Elective-6
+Refer List
+Professional Elective-7
+Refer List
+Professional Elective-8
+Open Elective
+6HS401
+Humanities-3:Accounting and Finance forEngineers
+Multi-Disciplinary Minor (MDM)
+Total
+List of Professional Elective for Final Year B Tech: SEM-VIII
+Sr.No.
+Track
+Course Code
+Course Name
+Professional Elective-6
+Thermal Engg.
+6ME431
+Renewable Energy Engineering
+Production Engg.
+6ME432
+Total Quality Management
+Design Engg.
+6ME433
+Condition Monitoring of Machines and Signal Processing
+Professional Elective-7
+Thermal Engg.
+6ME434
+Gas Dynamics and Jet Propulsion
+Design Engg.
+6ME435
+Design of Transmission System
+Production Engg.
+6ME436
+Computer Integrated Manufacturing
+Professional Elective-8
+Thermal Engg.
+6ME437
+Combustion
+Production Engg.
+6ME438
+Product Life Cycle Management
+Design Engg.
+6ME439
+Mechanical System Design
+Links to the detailed syllabus:
+FY:
+FY MECH Syllabus
+SY:
+SY MECH Syllabus
+TY:
+TY MECH Syllabus
+B.Tech:
+Final Year MECH Syllabus
+Share this page,
+Search
+Search
+Follow Us
+Facebook
+Linkedin
+Instagram
+
+--- Linked PDF content ---
+
+
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (All Branches) 
+Class, Semester First Year B. Tech., Sem I 
+Course Code 7MA101 
+Course Name  Engineering Mathematics- I 
+Desired Requisites: Mathematics course at Higher Secondary Junior College 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  3 Hrs/week MSE ISE ESE Total 
+Tutorial 1 Hrs/week  30 20 50 100 
+  Credits: 04 
+ 
+Course Objectives 
+1 
+Introduce the basic concepts required to understand, construct, solve and interpret various types 
+of differential equation. 
+2 Improve the Mathematical skill for enhancing logical thinking power of students  
+ 
+3 Acquire knowledge with a sound foundation in Mathematics and prepare them for graduate.  
+4  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO1 Explain mathematical concepts in engineering field. Understanding 
+CO2 Solve engineering and scientific problems. Applying 
+CO3 Applying the Mathematical concept in Engineering field  Applying 
+ 
+CO4   
+ 
+Module Module Contents Hours 
+I 
+ Matrices 
+Rank of matrix, Homogeneous and non-homogeneous linear equations, Eigen 
+values, Eigen vectors, Cayley Hamilton theorem, Diagonalizations of 
+matrices. 
+ 
+6 
+II 
+Partial Differentiation and its application  
+Partial derivative, chain rule for partial differentiation, Euler’s theorem for 
+homogeneous and non-homogeneous function, Jacobian, Error and 
+approximation, maxima and minima of function of two variables 
+ 
+8  
+III 
+Complex Number Polar form of complex number, Argand’s diagram, De 
+Moiver’s theorem, roots of complex number, Hyperbolic function, relation 
+between circular and hyperbolic function. 
+ 
+7  
+IV 
+First order ordinary differential equation and its application 
+Exact, Linear, Bernoulli’s equations, Euler’s equations, Orthogonal trajectory, 
+applications to simple electric circuit. 
+ 
+7 
+V 
+Numerical Solution of Ordinary Differential Equations of first order and 
+first degree:  
+Numerical Solution by  (i) Taylor’s series method  (ii) Euler’s method  (iii) 
+Modified Euler’s method  (iv) Runge- Kutta fourth order method 
+ 
+6 
+VI 
+ Calculus 
+Rolle’s theorem, Mean value theorem, Taylor’s and Maclaurin’s theorem with 
+remainders  
+ 
+5 
+ 
+Textbooks 
+1  P. N. and J. N. Wartikar  “A Text Book of Applied Mathematics, Vol I and II, Vidyarthi Griha 
+Prakashan, Pune, 2006. 
+2 B .S. Grewal  “Higher Engineering Mathematics”, , Khanna Publication, 44th Edition, 2017. 
+3  
+4  
+ 
+References 
+1 Erwin Kreyszig , ”Advanced Engineering Mathematics”, , Wiley Eastern Limited Publication, 
+10th  Edition, 2015. 
+2 Wylie C.R  “Advanced Engineering Mathematics”,., Tata McGraw Hill Publication, 8th Edition 
+1999. 
+3 H. K. Dass, “Advanced Engineering Mathematics”, S. Chand & Company Ltd., 1st Edition, 2014. 
+ 
+4 B.V.Ramana, “Higher Engineering Mathematics ”, The McGraw Hill companies, 2006. 
+ 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/111105121 
+2  
+3  
+4  
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 2   1           
+CO2 2   1           
+CO3 2   1           
+CO4               
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Civil & Mechanical Engineering) 
+Class, Semester First Year B. Tech. I & II 
+Course Code 7ME107 
+Course Name  Engineering Graphics           
+Desired Requisites: Basic Knowledge of Different Types of Curves 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture 2Hrs/week MSE ISE ESE Total 
+Tutorial - 30 20 50 100 
+  Credits: 2 
+ 
+Course Objectives 
+1 Introduce students to the conventions, concepts and basic principles of Engineering Drawing. 
+2 Draw projections of geometrical objects and real life components. 
+3 Demonstrate graphics skill for communication of concepts, ideas and design of engineering 
+products 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxono
+my 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Demonstrating Principles of Engineering, Computer Graphics 
+through drafting software 
+I Demonstrating 
+CO2 Understanding Principles of Engineering Graphics II Understanding 
+CO3 Outline projection of engineering objects II Understanding 
+ 
+Module Module Contents Hours 
+I 
+Introduction to Engineering Drawing / Curves 
+Principles of Engineering Graphics and their significance, usage of Drawing 
+instruments, lettering, Conic sections including the Rectangular Hyperbola 
+(General method only); Cycloid, Epicycloid, Hypocycloid and Involute; 
+Scales – Plain, Diagonal and Vernier Scales; 
+4 
+II 
+Projection of Lines  
+Principles of Orthographic Projections -Conventions - Projections of Points 
+and lines inclined to both planes, Skew Lines, Parallel Lines, Perpendicular 
+Lines using auxiliary methods; 
+5 
+III 
+Projection of Planes 
+Principles of Orthographic Projections -Conventions - Projections of planes 
+inclined Planes - Auxiliary Planes; 
+4 
+IV 
+Projections of Regular Solids   Sections and Sectional Views of Right 
+Angular Solids  
+Inclined to both the Planes - Auxiliary Views; Draw simple annotation, 
+dimensioning and scale. Floor plans that include: windows, doors, and 
+fixtures such as WC, bath, sink, shower, etc. 
+Prism, Cylinder, Pyramid, Cone – Auxiliary Views; Development of surfaces 
+of Right Regular Solids - Prism, Pyramid, Cylinder and Cone;  
+5 
+V 
+Orthographic Projections 
+Principles of Orthographic Projections -Conventions - Draw the sectional 
+orthographic views of  geometrical solids, objects from industry and 
+dwellings (foundation to slab only) 
+4 
+VI 
+Isometric Projections  
+Principles of Isometric projection – Isometric Sca le, Isometric Views, 
+Conventions; Isometric Views of lines, Planes, Simple and compound Solids; 
+Conversion of Isometric Views to Orthographic Views and Vice -versa, 
+Conventions; 
+4 
+Module wise Measurable Students Learning Outcomes : 
+After the completion of the course the student should be able to: 
+The student will learn : 
+• Introduction to engineering drawing and its place in society 
+• Exposure to the visual aspects of engineering design 
+• Exposure to engineering graphics projection of standard solid primitives 
+• Exposure to visualization of 3-D solid modeling 
+• Exposure to computer-aided geometric drafting 
+• Exposure to creating working drawings 
+Text Books 
+1 Bhatt N.D., Panchal V.M. and Ingle P.R., Engineering Drawing, Charotar Publishing House, 2014. 
+2 Shah, M.B. and Rana B.C., Engineering Drawing and Computer Graphics, Pearson Education, 
+2008. 
+3 Agrawal B. and Agrawal C. M., Engineering Graphics, TMH Publication, 2012. 
+ 
+References 
+1 Narayana, K.L. and P Kannaiah, Text book on Engineering Drawing, Scitech Publishers, 2008. 
+2 Warren J. Luzzader, Fundamentals of Engineering Drawing, Prentice Hall of India, New Delhi, 
+2010 
+3 Fredderock E. Giesecke, Alva Mitchell  others, Principles of Engineering Graphics, Maxwell 
+McMillan Publishing, 2010 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/112/103/112103019/ 
+2 https://nptel.ac.in/courses/105/104/105104148/ 
+3 https://www.youtube.com/watch?v=xXdpkQXDuMw&list=PL9RcWoqXmzaJT-
+fliqTSwUjWU4zCX_H2A 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3    2     1  1 2   
+CO2   2             
+CO3     3     1      
+                
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+CO-PO Mapping For Civil Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3  3  3     1  1    
+CO2   2             
+CO3     3     1      
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+Course Contents for B. Tech. Programme, Department of Electrical & Electronics Engineering, AY 
+2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B. Tech. (Mechanical, Civil, CSE,IT) 
+Class, Semester First Year B. Tech. Sem. I/II 
+Course Code 7EE106 
+Course Name  Electrical & Electronics Engineering  
+Desired Requisites: 12th Physics 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  3  Hrs/week MSE ISE ESE Total 
+Tutorial -  30 20 50 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 This course intends to summarize and solve electrical and magnetic circuits. 
+2 It imparts skill to identifying principles, construction and working of electrical machines. 
+3 To explain the difference between analog and digital electronic circuits.  
+ 
+4 To explain the working of diode circuits, transistorized and op-amp based amplifiers.  
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Explain principles, construction and working of electrical 
+machines. II Understanding 
+CO2 Solve electrical and magnetic circuits. III Applying 
+CO3 Explain the fundamentals of digital electronics.  
+ I Understanding 
+CO4 Solve the examples  on digital circuits, diodes and transistors and 
+Op-amp based circuits. III Applying 
+ 
+Module Module Contents Hours 
+I 
+Module 1: DC Circuits   
+Review of R -L-C- Electrical circuit elements, KCL and KVL. Star - delta 
+conversion, voltage and current sources. Thevenin, Norton and Superposition, 
+Maximum powers transfer Theorems 
+6 
+II 
+Module 2: AC Circuits 
+Representation of sinusoidal waveforms, peak, RMS values, phasor 
+representation real, reactive and apparent power. Analysis of single -phase, ac 
+circuits consisting of R, L, C, RL, RC, RLC (series and parallel) circuits and 
+three-phase balanced circuits. Voltage and current relations in star and delta. 
+6 
+III 
+Module 3: Electrical Machines 
+Construction, working principle and types of DC generator and Motor. Speed -
+Torque characteristics.  
+Construction and working principle of single and three- phase induction motor. 
+Types, torque- speed characteristics  
+Magnetic circuits, Construction, working principle of single-phase transformer, 
+and types. 
+6 
+   
+ 
+Course Contents for B. Tech. Programme, Department of Electrical & Electronics Engineering, AY 
+2023-24 
+IV 
+Module 4: Fundamentals of Digital Electronics  
+Boolean algebra, SOP and POS terms, K -map reduction technique, converting 
+AOI to NAND/NOR logic. Combinational C ircuits: half adder and subtractor, 
+1-bit full adder and subtractor, 1 -bit and 2-bit comparator, Sequential Circuits: 
+flip-flop, counters.  
+6 
+V 
+Module 5: Diodes and Transistors 
+P-N junction diode, diode characteristics, half -wave and full -wave rectifier, 
+clippers and clampers; Zener diode , LED, Photodiode and Solar Cell . 
+Introduction to sensors: Light and Temperature Sensors. 
+Transistor structure, types (BJT, FET and MOSFET), biasing methods, 
+transistor as a switch. 
+ 
+VI 
+Module 6: Operational Amplifier  
+Basic op -amp configuration, op -amp powering, feedback in op -amp circuits, 
+ideal op -amp circuits analysis, inverting, non -inverting amplifier, summing 
+amplifier, difference amplifier, unity gain buffer; IC555 timer.  
+6 
+ 
+Textbooks 
+1 D.C. Kulshreshtha, “Basic Electrical Engineering”, 1st revised edition McGraw Hill, 2012. 
+2 D.P Kothari and I.J Nagrath, “Basic Electrical Engineering”, Tata McGraw Hill, 2010. 
+3 B.L Theraja “A Textbook of Electrical Technology”, S Chand Publication, 2013. 
+4 R. P. Jain, “Modern Digital Electronics”, 4th edition, Tata McGraw Hill, 2009.  
+5 Robert Boylestad, Louis Nashelsky, 11 th edition, “Electronic Devices and Circuits, Pearson, 
+2015.  
+6 Ramakant Gaikwad, “Op-amp and Linear Integrated Circuits”, 4th edition, Pearson, 2015.  
+ 
+References 
+1 V. D. Toro, “Electrical Engineering Fundamentals”, Prentice Hall India, 1989. 
+2 E. Hughes, “Electrical and Electronics Technology”, Pearson, 2010. 
+3 V. N. Mittle and Arvind Mittal, “Basic Electrical Engineering”, 2nd edition, Tata McGraw Hill. 
+4 Morris Mano, “Digital Design”, Pearson, 4th edition, 2011  
+5 Donald A. Neamen, “Electronic Circuit Analysis and Design”, 3 rd edition, Tata McGraw Hill, 
+2011  
+6 Robert F. Coughlin and Frederick F. Driscoll, “Operational Amplifiers and Linear Integrated 
+Circuits”, 6th edition, PHI, 2009  
+ 
+Useful Links 
+1 Basic Electrical Technology, IISc Bangalore, by Prof. L. Umanand , 
+“https://nptel.ac.in/courses/108108076” 
+2 Basic Electrical Technology, IIT Kharagpur, by Prof. N.K. De, Prof. G.D. Roy, Prof. T.K. 
+Bhattacharya, “https://nptel.ac.in/courses/108105053” 
+3 Fundamentals of Electrical Engineering, IIT Kharagpur,by Prof. Debapriya Das , 
+“https://nptel.ac.in/courses/108105112” 
+4 https://nptel.ac.in/courses/108101091  
+5 https://nptel.ac.in/courses/108105113  
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 3              
+CO2  3             
+CO3 2 2             
+CO4 2 2             
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+   
+ 
+Course Contents for B. Tech. Programme, Department of Electrical & Electronics Engineering, AY 
+2023-24 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on Three modules. (One and half modules from Electrical syllabus and one and 
+half modules from Electronics syllabus) 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules up to MSE and 60% weightage on 
+modules after MSE.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Mechanical Engineering) 
+Class, Semester First Year B. Tech. SEM-I 
+Course Code 7ME101 
+Course Name  Elements of Mechanical Engineering           
+Desired Requisites: NA 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture 3Hrs/week MSE ISE ESE Total 
+Tutorial - 30 20 50 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 To  engage students in analysing mechanisms used in Mechanical Engineering 
+2 To prepare the students for applying concepts of motion transmission using mechanisms and gears 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Understand the basic principle of mechanisms and stress II Understanding 
+CO2 Identify and classify gears based on their application III Applying 
+CO3 Describe the thermodynamic systems: power producing 
+absorbing devices  
+II Understanding 
+ 
+Module Module Contents Hours 
+I 
+Conventional and nonconventional power plants 
+Steam power plants, hydropower plant, four stroke and two stroke petrol and 
+diesel engines Diesel power plant, wind power plants 
+7 
+II 
+Study of mechanical systems 
+pumps, compressors, refrigeration, and air conditioning system, hydraulic 
+and pneumatic systems. 
+6 
+III 
+Basic thermodynamics 
+First and second law of thermodynamics. Gas processes,  Cannot cycle, Otto 
+cycle, Joule cycle, Air standard efficiency, numerical on above 7 
+IV 
+Basics of  Machines and Mechanisms 
+Objective of kinematic analysis of mechanism, classification of links, pairs, 
+Basic terminology and kinematic symbols, kinematic chains, plane motion; 
+constraints and degrees of freedom, mechanism and machines, inversion of 
+mechanisms along with their practical applications. 
+7 
+V 
+Elements of Power Transmission - I 
+Gears: Classification and Basic terminology, Fundamental law of gearing, 
+the cycloidal and involute profile, standards in tooth forms, spur gears and 
+other types of gears 
+6 
+VI 
+Elements of Power Transmission – II 
+Introduction to belt and chain drives, types of be lt drives, shafts, keys, 
+couplings, sliding and rolling contact bearings 
+6 
+ 
+Text Books 
+1 Beer and Johnson, Mechanics of Materials, McGraw Hill, 6th Edition , 2013 
+2 S  S Rattan, Theory of Machines, McGraw Hill, 3rd edition, 2016 
+3 R,Yadav, Applied Thermodynamics, Central Publishing House, 3rd Edition, 2011 
+ 
+References 
+1 Den Hartog, Jacob P., Strength of Materials. Dover Publications Inc., 3rd Edidtion 1961 
+2 Yunus A Cengel and Michael Boles, Thermodynamics:An engineering approach, McGraw Hill, 9th 
+Edition, 2015 
+ 
+Useful Links 
+1 https://archive.nptel.ac.in/courses/112/104/112104188/ 
+2 https://www.youtube.com/watch?v=kC2SEiGaqoA 
+3 https://nptel.ac.in/courses/112104304 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 1  2  2   3   1     
+CO2 1 3 2    2         
+CO3                
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Course Contents for B. Tech Programme First Year, AY 2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech.  
+Class | Semester First Year B. Tech (Mechanical Engineering) | Semester I 
+Course Code 7CS106 
+Course Name  Computer Programming (Python Programming) 
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2 Hrs/ Week LA1 LA2 Lab ESE Total 
+Interaction 1 Hrs/ Week 30 30 40 100 
+  Credits: 2 
+Course Objectives 
+1 To understand problem solving and problem solving aspects. 
+2 To learn basics, features and future of Python programming. 
+3 To acquaint with data types, input output statements, decision making, looping, functions, array, 
+string, pointer, structure and union in Python. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Inculcate the various skills in Problem Solving. II Understand 
+CO2 Demonstrate significant experience with the Python 
+Programming. III Applying 
+CO3 To test and execute the Python programs and correct syntax and 
+logical errors. IV Analyse 
+List of Experiments / Lab Activities/Topics 
+ 
+List of Topics (Applicable for Interaction Mode):                                                                                      
+ 
+Module I: Basics of Problem Solving:  General Problem Solving C oncepts, Types of P roblems, 
+Problem Solving Strategies. Program Design Tools: Algorithms, Flowcharts and Pseudo-Codes.  
+Module II: Python Programming: Writing and Executing Python Program, Variables, Keywords, 
+Identifiers, Constants, Operators & Expressions, Operators, Data Types. 
+Module III: Decision Control Sta tements: Conditional Statements: If, If-else, Nested If, If-elseif 
+Statements. Iterative Statements: While Loop, For Loop, Do While Loop, Break, Continue, Pass.  
+Module IV:  Functions: Need, Definition, Call, Variable Scope, R eturn Statement, Lambda or 
+Anonymous Function. Modules: Definition, Introduction to packages in Python, Introduction to 
+standard library modules.  
+Module V: Strings and Operations:  Concatenation, A ppending, Multiplication and Slicing. 
+Strings are Immutable, Strings Formatting Operator. 
+Module VI: File Handling: Introduction, File path, Types of files, Opening and Closing files, 
+Reading and Writing files. 
+ 
+  
+Course Contents for B. Tech Programme First Year, AY 2023-24 
+List of Experiments: 
+1. Program to simulate simple calculator that performs basic tasks such as addition, subtraction, 
+multiplication and division. 
+2. Program to demonstrate different operators and their order precedence. 
+3. Program to accept the number and Compute a) Square root of number, b) Square of number, 
+c) Cube of number d) Check for prime, d) factorial of number, 
+4. Program to accept a number from user and print digits of number in a reverse order. 
+5. Program to accept two numbers from user and compute smallest divisor and Greatest 
+Common Divisor of these two numbers. 
+6. Program to find whether the number is positive / negative / zero using conditional statement. 
+7. Programs to show different types of iteration / loop. 
+8. Program to accept N numbers from user and compute and display maximum in list, minimum 
+in list, sum and average of numbers. 
+9. Program to print the Fibonacci Series (with & without recursion). 
+10. Program to swap two number using function.  
+11. Program to accepts a string from user and perform following string operations, a) Calculate 
+length of string, b) String reversal, c) Check palindrome, 
+12. Program to demonstrate different file handling functions. 
+13. Program to copy contents of one file to other. 
+Textbooks 
+1 Reema Thareja, “Python Programming Using Problem Solving Approach”, Oxford  University 
+Press, ISBN 13: 978-0-19-948017-6. 
+2 R. Nageswara Rao, “Core Python Programming”, Dreamtech Press; Second edition ISBN10: 
+938605230X, ISBN-13: 978-9386052308 ASIN: B07BFSR3LL. 
+ 
+References 
+1 Maureen Spankle, “Problem Solving and  Programming Concepts”, Pearson; 9th edition, ISBN -
+10: 9780132492645, ISBN-13: 978-0132492645. 
+2 Romano Fabrizio, “Learning Python”, Packt Publishing Limited, ISBN: 9781783551712, 
+1783551712. 
+3 Martin C. Brown, “Python: The Complete Reference”, McGraw Hill Education, ISBN-10: 
+9789387572942, ISBN-13: 978-9387572942, ASIN: 9387572943. 
+4 
+Jeeva Jose, P. Sojan Lal, “Introduction to Computing & Problem Solving with Python”, 
+Khanna Computer Book Store; First edition, ISBN-10: 9789382609810, ISBN-13: 978- 
+9382609810 
+ 
+Useful Links 
+1 https://www.w3schools.com/python/ 
+2 https://www.geeksforgeeks.org/python-programming-language/ 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 3 2             
+CO2 1  2  2          
+CO3  2 1 2           
+The strength of mapping is to be written as 1,2,3; where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO, and preferably to only one PO. 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessment Based on Conducted by Typical Schedule  Marks 
+Course Contents for B. Tech Programme First Year, AY 2023-24 
+LA1 
+Lab activities, 
+attendance, 
+Submission  
+Lab Course Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of 
+Week 8 
+30 
+LA2 
+Lab activities, 
+attendance, 
+Submission 
+Lab Course Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of 
+Week 16 
+30 
+Lab ESE 
+Lab activities/ 
+submission/ 
+performance 
+Lab Course Faculty and 
+External Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of 
+Week 19 
+40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Civil & Mechanical) 
+Class, Semester First Year B. Tech., Sem I &II 
+Course Code 7ME157 
+Course Name  Engineering Graphics Lab 
+Desired Requisites: Basic Knowledge of Computer 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2Hrs/Week LA1 LA2 ESE Total 
+Interaction ---- 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To impart the techniques of engineering graphics. 
+2 To prepare the students for applying knowledge of engineering graphics in real life drawings. 
+3 To develop the skills of students for evaluating CAD software for its applications 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonom
+y Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Understand the basic principle of Engineering graphics. II Understanding 
+CO2 Draw different views of components using the first angle projection 
+method. 
+III Applying 
+CO3 Apply the knowledge of engineering graphics in real life 
+applications. 
+III Applying 
+ 
+List of Experiments / Lab Activities 
+List of Experiments: 
+Submission of drawing on following topics (use of CAD software) 
+1: Plane Curves and Conic Sections (Min. 5 Problems) 
+2: Projections of Points and Lines (Min. 5 Problems) 
+3: Projections of Planes and Solids (Min. 6 Problems) 
+4: Development of Lateral Surfaces (Min. 3 Problems) 
+5: Orthographic Projections (Min. 2 Problems) 
+6: Isometric Projections (Min. 2 Problems) 
+ 
+Text Books 
+1 Bhatt N.D., Panchal V.M. and Ingle P.R., Engineering Drawing, Charotar Publishing House, 2014 
+2 Shah, M.B. and Rana B.C., Engineering Drawing and Computer Graphics, Pearson Education, 
+2008. 
+3 Agrawal B. and Agrawal C. M., Engineering Graphics, TMH Publication, 2012. 
+ 
+References 
+1 Narayana, K.L. and P Kannaiah, Text book on Engineering Drawing, Scitech Publishers, 2008. 
+2 Warren J. Luzzader, Fundamentals of Engineering Drawing, Prentice Hall of India, New Delhi, 
+2010 
+3 Fredderock E. Giesecke, Alva Mitchell  others, Principles of Engineering Graphics, Maxwell 
+McMillan Publishing, 2010 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/112/103/112103019/ 
+ 
+2 https://nptel.ac.in/courses/105/104/105104148/ 
+3 https://www.youtube.com/watch?v=xXdpkQXDuMw&list=PL9RcWoqXmzaJT-
+fliqTSwUjWU4zCX_H2A 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3    2     1  1 2   
+CO2   2             
+CO3     3     1      
+                
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+CO-PO Mapping For Civil Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3  3  3     1  1    
+CO2   2             
+CO3     3     1      
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessmen
+t 
+Based on Conducted by Typical Schedule  Mark
+s 
+LA1 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of Week 8 30 
+LA2 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of Week 16 30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course 
+Faculty and 
+External 
+Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of Week 19  40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+Proposed Course Contents for B. Tech. Programme, Department of Electrical Engineering, AY 2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme First Year B. Tech. ( Mech, Civil, CSE, IT) 
+Class, Semester First Year B. Tech., Sem I/II 
+Course Code 7EE156 
+Course Name  Electrical and Electronics Engineering Lab 
+Desired Requisites: 12th Physics   
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 3 Hrs/ Week LA1 LA2 Lab ESE Total 
+Interaction - 30 30 40 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 This course intends to demonstrate basic knowledge of Electrical engineering. 
+2 It intends to develop skills to recognize working principle, construction and types of electrical 
+Machines. 
+3 This course intends to demonstrate basic knowledge of Electronics engineering. 
+4 To provide knowledge of electronic components and circuits to first year engineering students, so 
+that they can understand, design and implement simple analog / digital electronic circuits. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Describe basic concepts of electrical circuits and various theorems. II Understanding 
+CO2 Demonstrate the use of transformers and AC/DC machines. III Applying 
+CO3 Identify and explain use of electronics components and instruments. II Understanding 
+CO4 Construct digital IC, diode, transistor and op-amp based circuits. III Applying 
+ 
+List of Experiments / Lab Activities/Topics 
+List of Topics(Applicable for Interaction mode ): Electrical  
+1. To study AC and DC machines parts and their functions. 
+2. Study of AC/DC motor starters.  
+3. To study servo motor/ steeper motor with application. 
+4. Study of installation techniques using fuse, MCB and MCCB. 
+5. Measure voltage, current and power in single phase R-C series circuit. 
+6. Measure Voltage, current and power factor of 1-phase A.C R-L series circuit. 
+ 
+List of Lab Activities: Electrical 
+1. Electrical Safety Measures. 
+2. To study series-parallel RL, RC and RLC circuits 
+3. To verify KVL and KCL theorems. 
+4. To study speed control techniques of ac and dc machines. 
+5. To perform load test on transformer. 
+6. Find out equivalent resistance in series and parallel connection. 
+ 
+List of Lab Activities: Electronics 
+1. Identification of components and instruments required in lab to perform experiments in basic electronics 
+engineering. 
+2. Realization of logic gates using basic building block (NAND/NOR). 
+3. Implementation of combinational and sequential logic circuit. 
+4. Study of half-wave and full-wave rectifier. 
+5. Study of diode-based clipper and clamper circuits 
+6. Study of transistor as a switch. 
+7. Study of inverting and non-inverting amplifier using op-amp. 
+Proposed Course Contents for B. Tech. Programme, Department of Electrical Engineering, AY 2023-24 
+ 
+Textbooks 
+1 D.C. Kulshreshtha, “Basic Electrical Engineering”, 1 st revised editionMcGraw Hill, 2012. 
+2 D.P Kothari and I.J Nagrath, “Basic Electrical Engineering”,Tata McGraw Hill, 2010. 
+3.  R. P. Jain, “Modern Digital Electronics”, 4th edition, Tata McGraw Hill, 2009. 
+4.  Robert Boylestad, Louis Nashelsky, 11th edition, “Electronic Devices and Circuits, Pearson, 
+2015. 
+5.  Ramakant Gaikwad, “Op-amp and Linear Integrated Circuits”, 4th edition, Pearson, 2015. 
+ 
+References 
+1 V. N. Mittle and Arvind Mittal, “Basic Electrical Engineering”, 2 nd edition, Tata McGraw Hill. 
+2 Morris Mano, “Digital Design”, Pearson, 4th edition, 2011 
+3 Donald A. Neamen, “Electronic Circuit Analysis and Design”, 3rd edition, Tata McGraw Hill, 
+2011 
+4 Robert F. Coughlin and Frederick F. Driscoll, “Operational Amplifiers and Linear Integrated 
+Circuits”, 6th edition, PHI, 2009 
+ 
+Useful Links 
+1 
+Virtual Labs ,An Initiative of Ministry of Education Under the National Mission on Education 
+through ICT, 
+1. https://www.vlab.co.in/broad-area-electrical-engineering    
+2. http://vlabs.iitkgp.ac.in/asnm/#   
+2 Virtual Labs, An Initiative of Ministry of Education Under the National Mission on Education 
+through ICT:Basic Electronics 
+3 https://nptel.ac.in/courses/122106025 
+ 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 3              
+CO2 3        2      
+CO3  3              
+CO4 3        2      
+The strength of mapping is to be written as 1,2,3; where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO, and preferably to only one PO. 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessment Based on Conducted by Typical Schedule  Marks 
+LA1 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of 
+Week 8 
+30 
+LA2 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of 
+Week 16 
+30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course Faculty and 
+External Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of 
+Week 19  
+40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Mechanical) 
+Class, Semester First Year B. Tech., Sem-I 
+Course Code 7ME151 
+Course Name  Elements of Mechanical Engineering lab 
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2Hrs/Week LA1 LA2 ESE Total 
+Interaction ---- 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To impart the techniques of Manufacturing Systems. 
+2 To prepare the students for applying knowledge of Mechanical engineering. 
+3 To develop the skills of students in basic Mechanical Engineering processes. 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Understand the thermodynamic systems: power-producing 
+absorbing devices. 
+I Remembering 
+CO2 Apply kinematics principles to estimate mobility parameters of 
+mechanisms 
+III Applying 
+CO3 Understanding basic elements of power transmission in 
+Mechanical systems 
+II Understanding 
+ 
+List of Experiments / Lab Activities 
+List of lab activities: 
+1. Study and demonstration of the steam power plant. 
+2. Study and demonstration of two-stroke internal combustion engines 
+3.  Study and demonstration of four-stroke internal combustion engines 
+4.  Study and demonstration of the refrigeration system. 
+5.  Study and demonstration of air conditioning system. 
+6.  Study and demonstration of pumps. 
+7. Study of basic mechanisms like four bar, slider crank, etc. 
+8. Estimation of degrees of freedom for given mechanism using Gruebeler’s criterion 
+9. Demonstration on type of gears and gear trains 
+10. Demonstration on type of belt drives 
+11. Demonstration on type of bearings 
+12 Study of gear tooth profiles 
+ 
+Text Books 
+1 Beer and Johnson, Mechanics of Materials, McGraw Hill, 6th Edition , 2013 
+2 S  S Rattan, Theory of Machines, McGraw Hill, 3rd edition, 2016 
+3 R,Yadav, Applied Thermodynamics, Central Publishing House, 3rd Edition, 2011 
+ 
+References 
+1 Den Hartog, Jacob P., Strength of Materials. Dover Publications Inc., 3rd Edidtion 1961 
+2 Yunus A Cengel and Michael Boles, Thermodynamics:An engineering approach, McGraw Hill, 
+9th Edition, 2015 
+ 
+3 Richard Crowson, "Introduction to Manufacturing Processes," McGraw-Hill Education, 2017. 
+ 
+Useful Links 
+1 https://archive.nptel.ac.in/courses/112/104/112104188/ 
+2 https://www.youtube.com/watch?v=kC2SEiGaqoA 
+3 https://nptel.ac.in/courses/112104304 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3    2     1  1 2   
+CO2   2             
+CO3     3     1      
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessmen
+t 
+Based on Conducted by Typical Schedule  Mark
+s 
+LA1 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of Week 8 30 
+LA2 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of Week 16 30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course 
+Faculty and 
+External 
+Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of Week 19  40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+Proposed Course Contents for B. Tech. Programme, Department of Electronics Engineering, AY2021-22 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B. Tech. (All Branches)  
+Class, Semester First Year B. Tech., Sem.-I 
+Course Code 7VS152 
+Course Name  Engineering Skills Laboratory 
+Desired Requisites: - 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2 Hrs/Week LA1 LA2 Lab ESE Total 
+Interaction - 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To provide basic knowledge of handling electrical equipment and safety. 
+2 To impart skills to plan and implement simple electrical wiring. 
+3 To provide exposure to the students with hands on experience on various basic engineering 
+practices in Electrical and Electronics Engineering.  
+4 To explain the working of small electronic gadget like electronic bell, emergency lamp etc.  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Identify the instruments for measurement of electrical parameters. I Remembering 
+CO2 Illustrate working of switchgear for electrical safety and 
+protections. 
+III Applying 
+CO3 Identify and explain the use of electronic instruments. II Understanding 
+CO4 Build and Test simple electronic gadget. III Applying 
+ 
+List of Experiments / Lab Activities/Topics 
+List of Lab Activities: (minimum 08 experiments) 
+Engineering Skills (Electrical) 
+Module 1:  
+i. Measurement of Electrical Parameters in DC Circuits.  
+ii. Measurement of Electrical Parameters in Single Phase AC Circuits.  
+Module 2: 
+i. Study of various types of wires and cables. 
+ii. Basic wiring schemes for residential and industrial applications. 
+iii. Demonstrate the operation of fuse, MCCB, ELCB  
+Module 3:  
+i. Preparation of Earthing Pit for Electrical Installation Safety.  
+ii. Dismantling, Assembly and Fault Finding of Ceiling Fans / Table Fans, Automatic Electric 
+Iron, Plate Tube Water Heater, Use of Megger. 
+ 
+Engineering Skills (Electronics) 
+Module 1: Introduction to Lab Instruments like CRO, Power supply, Oscillator, Multi meter. Frequency 
+measurement, AC-DC voltage measurement using CRO and multi meter  
+ 
+Module 2:  Study of components (Resistance, capacitor,  Diode, Transistor, Transformer, switches, 
+relays, PCB etc.) testing and lead identification  
+Module 3: Electronics Gadget building & testing (Gadget must work) 
+ 
+ 
+Textbooks 
+Proposed Course Contents for B. Tech. Programme, Department of Electronics Engineering, AY2021-22 
+1 Make: Electronics, by Charles Platt, Published by Maker Media, 2015 
+2 Electronics Projects For Dummies, by by Earl Boysen and Nancy Muir, Published by Wiley 
+Publishing, Inc., 2006 
+3 D.C. Kulshreshtha, “Basic Electrical Engineering”, 1 st revised editionMcGraw Hill, 2012. 
+4 D.P Kothari and I.J Nagrath, “Basic Electrical Engineering”,Tata McGraw Hill, 2010. 
+ 
+References 
+1 Paul Horowitz, Winfield Hill, “The Art of Electronics”, Cambridge University Press, 1989 
+2 E-learning material through Intranet/Internet 
+3 V. N. Mittle and Arvind Mittal, “Basic Electrical Engineering”, 2 nd edition, Tata McGraw 
+Hill. 
+4  
+ 
+Useful Links 
+1  
+2  
+3  
+4  
+ 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1   1  2    1    1  
+CO2   1  2    1    1  
+CO3    2     1     1 
+CO4    2     1     2 
+The strength of mapping is to be written as 1,2,3; where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO, and preferably to only one PO. 
+ 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+ 
+Assessment Based on Conducted by Typical Schedule  Marks 
+LA1 
+Lab activities, 
+attendance, 
+journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of Week 8 30 
+LA2 
+Lab activities, 
+attendance, 
+journal 
+Lab Course 
+Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of Week 16 30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course 
+Faculty and 
+External 
+Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of Week 19  
+40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Civil/ Mechanical) 
+Class, Semester First Year B. Tech., Sem- II  
+Course Code 7MA102 
+Course Name  Engineering Mathematics –II (Civil/Mech) 
+Desired Requisites: Mathematics course at Higher Secondary Junior College 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  3 Hrs/week MSE ISE ESE Total 
+Tutorial  1 Hrs/week  30 20 50 100 
+  Credits: 04 
+ 
+Course Objectives 
+1 Familiarize the students with techniques in multivariate integration and Differential equation. 
+2 Awareness about Mathematics fundamental necessary to solve and analyse the Engineering 
+problem 
+3  
+4  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO1 Understand the Mathematical Tools that are needed to solve Engineering problem Understanding 
+CO2 Solve the problems in multivariable calculus, Applying 
+CO3 Apply the statistical  technique to interpret the data Applying 
+CO4   
+ 
+Module Module Contents Hours 
+I Beta-Gamma Functions: 
+Definition of Beta, Gamma functions and properties of Beta Gamma functions  
+6 
+II Curve tracing 
+Tracing of curves for Cartesian and polar coordinate 
+           5 
+III 
+Multivariable Calculus: 
+Multiple Integrals: Double integrals, change of order of integration, change of 
+variables (Cartesian to polar) Evaluation of triple integrals, Application of 
+Multiple integrals such as Area enclosed by plane curves, Mass of lamina, 
+Volume of solid. 
+8  
+IV 
+ Linear Differential equations of nth order with constant coefficient: 
+Linear Differential equation with constant coefficient, Complementary 
+function, Particular Integral, Homogeneous Linear Differential equation 
+8  
+V 
+Applications of L.D.E with constant coefficient:  
+Applications of L.D.E with constant coefficient to Civil and Mechanical 
+Engineering   
+ 
+5 
+VI 
+ Statistics: 
+Correlation, Linear regression, Curve fitting (a) straight line (b) logarithmic 
+curve, 
+ 
+7 
+ 
+Textbooks 
+1 P. N. and J. N. Wartikar,  “A Text Book of Applied Mathematics”, Vol I and II”,  Vidyarthi 
+Griha Prakashan, Pune, 2006 
+2 B .S. Grewal , “Higher Engineering Mathematics”,  Khanna Publication,  44th Edition , 2017. 
+3 S.C. Gupta, “Fundamentals of Mathematical Statistics and probability”, Sultan chand 
+&Sons,2014. 
+4  
+ 
+References 
+1 Erwin Kreyszig, “Advanced Engineering Mathematics”, Wiley Eastern Limited Publication, 
+2015, 10th Edition  
+2 Wylie C.R,  “Advanced Engineering Mathematics”, Tata McGraw Hill Publication, 8th Edition, 
+1999 
+3 H. K. Dass , “Higher Engineering Mathematics”, S. Chand & Company Ltd.,  1st Edition 2014. 
+ 
+4 S. S. Sastry,  “Engineering Mathematics (Volume -I)”, Prentice Hall Publication, 3rd Edition 
+2006 
+ 
+Useful Links 
+1 https://www.youtube.com/watch?v=KgItZSst2sU 
+2 https://nptel.ac.in/courses/111105121 
+3  
+4  
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 2   1           
+CO2 2   1           
+CO3 2   1           
+CO4               
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+ 
+ 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+   
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Civil /Mech) 
+Class, Semester First Year B.Tech., Sem I / II 
+Course Code 7PH101 
+Course Name  Engineering Physics (Civil /Mech) 
+Desired Requisites: Students are expected to know the basic concept in Physics. 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  03Hrs/week MSE ISE ESE Total 
+Tutorial 0  Hrs/week  30 20 50 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 To provide basic concepts to solve many engineering and technical issues. 
+2 To give deep insights into the understanding of engineering courses. 
+3 To encourage them to understand engineering and technical development. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Descriptor 
+ 
+CO1 
+Exhibit memory of previously learned information by recal
+ling facts, terms, basic concepts in Wave Optics, Modern 
+Physics and Quantum Mechanics, Ultrasonic, 
+Semiconductors, Nanoscience and Nanotechnology , 
+Acoustics. 
+1 Remembering 
+CO2 Demonstrate understanding of facts and ideas by recalling, 
+comparing, interpreting for all terms in these modules. 2 Understanding 
+CO3 
+Solve problems to new situations by applying acquired      
+knowledge, facts, techniques and rules for various concepts 
+in a different way. 
+3 Applying 
+Module Module Contents Hours 
+I 
+Wave optics : Introduction, interference of light, Newton’s rings, 
+Fresnel’s diffraction: Fresnel’s half -period zones, zone plate and 
+diffraction at a straight edge.   Fraunhofer’s diffraction:  Diffraction due 
+to single slit, Diffraction due to double slits, Plane diffraction grating. 
+6 
+II 
+Modern Physics and Quantum mechanics : Introduction, black body 
+radiation, Planck’s quantum theory,  Wien’s displacement law and 
+Rayleigh – Jeans law, phase velocity, group velocity and particle 
+velocity, de-Broglie’s hypothesis, Photoelectric effect, Compton effect,  
+Heisenberg’s uncertainty principle and applications, wave function and 
+physical significance, Schrödinger’s wave equation: time dependent and 
+time independent, Eigen value and Eigen function. 
+8 
+III 
+Ultrasonic: Introduction, generation of  ultrasonic waves 
+(Magnetostriction and Piezoelectric method), detection of ultrasonic 
+waves by Kundt’s tube, thermal detection and sensitive flame method,  
+velocity of ultrasonic waves in liquid, applications of ultrasonic waves 
+in scientific and engineering field. 
+6 
+   
+ 
+IV 
+Semiconductors:   Introduction,   formation of   energy   bands, 
+classification of solid on basis of band theory, number levels in a band, 
+density of states, Fermi-Dirac statistics, Fermi level, variation of Fermi 
+level with temperature, electrical conductivity of metal and 
+semiconductor, Hall effect, basic concept of p-n junction. 
+7 
+V 
+ 
+Nanoscience and Nanotechnology 
+Introduction to nano -science and nanotechnology, Surface to volume 
+ratio, Two main approaches in nanotechnology -Bottom up technique and 
+top down technique. Nano materials: Methods to synthesize 
+nanomaterials (Ball milling, Sputtering, Vapour deposition, s ol gel), 
+properties and applications of nanomaterials. Applications of 
+nanomaterials, Introduction to Carbon Nanotubes and its applications. 
+6 
+VI 
+ 
+Acoustics: Introduction , Types of Acoustics, reverberation and 
+reverberation time, absorption power and absorption coefficient, 
+Requisites for acoustics in  auditorium, Sabine’s formula , measurement 
+of absorption coefficient,  factors affecting the acoustics and remedial 
+measures, Noise and its Measurements,  Sound Insulation and its 
+measurements. Impact of Noise in Multi-storied buildings. 
+6 
+ 
+Textbooks 
+1 M. N. Avadhanulu and P. G. Kshirsagar, “A Text book of Engineering Physics”, S.Chand Pub. 
+2 R. K. Gaur and S. L. Gupta “Engineering Physics”, Dhanpat Rai Publications, 2011 
+ 
+References 
+1 Halliday, Resnic and Walker, “Fundamentals of Physics”, John Wiley, 9th edition 2011. 
+2 A. Beiser, “Concepts of Modern Physics”, McGraw Hill International, 5th edition, 2003. 
+3 Ajoy Ghatak, “Optics”, Tata McGraw Hill 5th edition, 2012. 
+4 Charles P.Poole and Frank J. Owner, “Introduction to Nanotechnology”, Wiley India. 
+5 G. Cao “Nanostructures and Nanomaterials: Synthesis, Properties and Applications” 
+Imperial College Press, 2004. 
+ 
+Useful Links 
+1 For optics https://nptel.ac.in/courses/122/107/122107035/ 
+2 For Quantum Physics https://nptel.ac.in/courses/122/106/122106034/ 
+3 For Ultrasonic https://freevideolectures.com/course/3531/engineering-physics-i/8 
+4 For Solid State Physics https://nptel.ac.in/courses/115/105/115105099/ 
+5 For Introduction to Nanotechnology  https://youtu.be/ebO38bbq0_4  
+6 For acoustics https://youtu.be/fHBPvMDFyO8  
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 2              
+CO2 2              
+CO3 2              
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can be 
+Tests, assignments, oral, seminar etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 30 - 40% weightage on modules 1 to 3 and 60 - 70% weightage 
+on modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in ESE 
+are needed. (ESE shall be a separate head of passing)  
+ 
+   
+ 
+Course Contents for BTech Programme, Applied Mechanics Department, AY2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Civil and Mechanical Engineering ) 
+Class, Semester First Year B. Tech., Sem I/II 
+Course Code 7AM101 
+Course Name  Engineering Mechanics 
+Desired Requisites: Physics, Mathematics 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  3  Hrs/week MSE ISE ESE Total 
+Tutorial ---  30 20 50 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 To impart knowledge on fundamentals of mechanics 
+2 To provide knowledge of basic concepts and system of forces in statics and dynamics 
+3 To illustrate the principles of mechanics in engineering applications 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Explain concept & principles of forces with respect to engineering 
+applications II Understanding 
+CO2 Apply the concepts of force, stresses and strains for analysis of 
+trusses and solid bodies III Applying 
+CO3 Apply the concepts of  Newton’s law s of motion, D’Alemberts 
+principles to solve problems related to dynamic system III Applying 
+ 
+Module Module Contents Hours 
+I 
+Forces 
+Fundamentals, Systems, Composition and R esolution, Resultant of planar 
+force systems. Free Body Diagram, Laws of Forces, Varignon’s Theorem,  
+Lami’s Theorem 
+8 
+II 
+Equilibrium 
+Equilibrium conditions, Concept of determinacy and indeterminacy 
+Beams: Types of Supports, Loads and Reactions 
+Principle of Virtual Work and its applications to statically determinate beams 
+7 
+III 
+Centroid and Moment of Inertia  
+Centre of gravity and Centroid, Moment of Inertia of Plane figure, Composite 
+Sections, Radius of gyration, Mass-Moment of Inertia 
+5 
+IV 
+Plane Trusses 
+Pin-jointed statically determinate plane trusses : Assumptions, imperfect , 
+perfect and redundant trusses , Analysis by Method of  joints, method of 
+sections 
+5 
+V 
+Concept of Stress and Strain:  
+Normal and shear stress and strain, State of stress at a point,  Stress strain 
+curve, Hook's law, Modulus of elasticity, Poisson's ratio, Modulus of rigidity, 
+Bulk modulus 
+8 
+   
+ 
+Course Contents for BTech Programme, Applied Mechanics Department, AY2023-24 
+VI 
+Dynamics of Particles:  
+Rectilinear Motion, Motion of Projectile , Kinetics – Newton’s laws of  
+motion, D’Alemberts principle, Applications to rough inclined plane, lift, and 
+connected bodies, Collisions: Impact, C ollision of bodies, Coefficient of 
+Restitution, Loss of Kinetic Energy due to Impact 
+7 
+ 
+Textbooks 
+1 Ramamrutham., S. “Textbook of Applied Mechanics”, Dhanpat Rai Publishing Company 
+Limited, 2008. 
+2 Bhavikatti., S. S. and Rajashekarappa., K. G. “Engineering Mechanics”, New Age 
+International Publishers, 2015, 5th Edition. 
+3 Beer, F. P. and Johnston, E. R. “Vector Mechani cs for Engineers Vol. I and II”, McGraw Hi ll 
+Company Publication, 2011, 9th Edition. 
+ 
+References 
+1 Singer, F. L. “Engineering Mechanics Statics & Dynamics”, B. S. Publications, 2011. 
+2 Timoshenko, S. and Young, D. H. “Engineering Mechanics”,  McGraw Hill Companies, 2008, 
+4th Edition. 
+3 Meriam, L. and L.G. Kraige, “Engineering Mechanics – Dynamics”, John Wiley & Sons, 2002, 
+6th Edition. 
+4 F. P. Beer and E. R. Johnston, Mechanics of materials, McGraw-Hill International 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/112106286  
+2 https://www.youtube.com/watch?v=9Yt3I4bP-90  
+  
+  
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 3              
+CO2 3 1             
+CO3 3 1             
+CO4               
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+Course Contents for B. Tech. Programme, Department of Civil Engineering, AY 2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B. Tech. (Mechanical) 
+Class, Semester First Year B. Tech. Sem. I/II 
+Course Code 7CV106 
+Course Name  Basic Civil Engineering. 
+Desired Requisites: Nil 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture  2  Hrs/week MSE ISE ESE Total 
+Tutorial -  30 20 50 100 
+  Credits: 2 
+ 
+Course Objectives 
+1 To, familiarize with Building Systems and Sustainable Construction: Students will gain knowledge 
+about building systems, including structural systems and their various components and functions.  
+2 To introduce students to different types of construction equipment used on construction sites, 
+enhancing their understanding of efficient project execution and management. 
+3 
+To, acquire Proficiency in Surveying, Construction Materials, and Equipment: Through this course, 
+students will develop practical skills in surveying techniques and measurement methods. They will 
+also gain insights into various construction materials, their properties, and applications in civil 
+engineering projects.  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Identify different types of building systems, their components, and 
+functions. II Knowledge 
+CO2 Describe the importance of smart cities in modern urban 
+development and its challenges. II Understandin
+g 
+CO3 Select appropriate construction equipment based on project 
+requirements and constraints. III Apply 
+ 
+Module Module Contents Hours 
+I 
+Introduction to Civil Engineering 
+Scope of civil engineering, Disciplines of civil engineering , Role of Civil Engineers 
+in infrastructure development , Building Systems: Conceptualization, Need for 
+buildings, Defining Susta inability for Building systems , Structural systems; Load 
+bearing, Framed, Prefabricat ed, Pre Engineered Construction, Loads on Building, 
+Components in Buildings and their functions, building bye laws, Principle of building 
+planning 
+5 
+II 
+Surveying and Construction Materials 
+Principles of surveying, Distance measurement, Levelling,  
+Construction materials and classification , Properties and uses of stone, brick, tile, 
+timber, cement, sand, lime, mortar, concrete, bitumen and steel 
+5 
+III 
+Construction Equipment 
+Necessity of Construction Equipment and types, Earth moving equipment: Excavator, 
+bulldozer, and loader, Material handling equipment: Cr anes, hoists, and conveyors.  
+Concrete equipment : C oncrete pumps, mixers, and vibrators , Asphalt equipment : 
+Asphalt pavers and compactors. 
+4 
+IV 
+Transportation Engineering 
+Modes of surface transport, Functional Classification of Highway Systems, Typical 
+Cross section of a Highway. 
+Introduction to Railways, Airport, Docks and Harbours, functions, types, layouts 
+4 
+Course Contents for B. Tech. Programme, Department of Civil Engineering, AY 2023-24 
+V 
+Hydraulic Structures 
+Sources of water,  
+Hydraulic structures: Dam, Reservoir, Barrage, Weirs, Canal, Hydropower plant, 
+Irrigation systems 
+4 
+VI 
+Smart Cities 
+The Challenge of Urbanization, Sustainable environment 
+Smart city: Infrastructure elements, F eatures, Strategic components of development, 
+The Process of Selection, Smart Cities in India, A typical smart city in India 
+4 
+ 
+Textbooks 
+1 Bhavikatti S.S “Basic Civil Engineering”, I.K. International Publishing House Pvt. Ltd. 
+2 B.C. Punmia, Ashok Kumar Jain, and Arun Kumar Jain “Surveying Vol. I and II”  
+3 S.K. Garg Water Supply Engineering, Khanna Publishers, 15th edition 
+4 Hirasakar G. K., “Basic Civil Engineering”, DhanpatRai publications, 1st Edition,2007 
+ 
+References 
+1 Robert Peurifoy, Clifford J. Schexnayder, Aviad Shapira, Construction Planning, Equipment and 
+Methods, McGraw Hill Education, 7th edition, 2010 
+2 Smart Cities Mission Statement & Guidelines , Ministry of Urban Development  Government of 
+India 
+ 
+Useful Links 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 2           2   
+CO2 2 2        2  2   
+CO3 2  2       2  2   
+The strength of mapping is to be written as 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of a teacher’s assessment. The mode of assessment 
+can be field visits, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed, and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Mechanical Engineering) 
+Class, Semester First Year B. Tech. SEM-II 
+Course Code 7ME102 
+Course Name  Manufacturing Systems           
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture 3Hrs/week MSE ISE ESE Total 
+Tutorial - 30 20 50 100 
+  Credits: 3 
+ 
+Course Objectives 
+1 To impart the techniques of Manufacturing Systems. 
+2 To prepare the students for applying knowledge of Mechanical engineering. 
+3 To develop the skills of students in basic Mechanical Engineering processes. 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxono
+my 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Recall the basic principle of Mechanical Engineering domain. I Remember 
+CO2 Understand the application areas of manufacturing systems. II Understanding 
+CO3 Apply the knowledge of Manufacturing Systems in real life 
+applications. 
+III Applying 
+ 
+Module Module Contents Hours 
+I 
+Introduction to Measurement Techniques 
+Introduction to Dimensional Measurements, measuring instruments such as 
+calipers, micrometers, gauges , limits, fits tolerance, reading of job drawing.  
+6 
+II 
+Introduction to Manufacturing Processes 
+Basics of conventional Manufacturing Processes such as Turning, Milling, 
+Drilling, Grinding, casting etc.  Its classifications, Working Principles, 
+Materials, Advantages and Disadvantages. 
+6 
+III 
+Introduction to Joining and Fabrication Processes 
+Basics of joining and fabrication processes such as Welding, Cutt ing, 
+Bending, Brazing, Soldering, Adhesive Bonding. Its classifications, Working 
+Principles, Materials, Advantages and Disadvantages. 
+7 
+IV 
+Introduction to Non-Conventional Machining 
+Definition and significance of NCM in modern manufacturing, Comparison 
+with conventional machining processes: advantages and limitations, 
+Overview of various NCM techniques such as EDM, LBM, ECM, WJM, USM, 
+AJM etc. and their applications. 
+7 
+V 
+Background of Manufacturing Systems and Its Support Systems 
+Computer applications in Design and manufacture, Design Process : 
+Introduction to Design Process / Materials , Processes, Product Mix / Specs 
+/ Classification / Architecture, Conceptual Design, Generation. 
+6 
+VI 
+Introduction to Automation 
+Automation in pro duction system, Automation principles and strategies, 
+Elements of Automated system., Advanced automation function, Levels of 
+7 
+Automation, Arguments for and against automation. 
+Module wise Measurable Students Learning Outcomes : 
+The student will learn : 
+• Different engineering measurement techniques. 
+• basic manufacturing techniques applicable for production. 
+• Different joining and fabrication techniques. 
+• high-precision non-conventional machining processes. 
+• Background of design processes using CAD. 
+• automation in manufacturing. 
+Text Books 
+1 Katsundo Hitomi , Manufacturing Systems Engineering:  A Unified Approach to Manufacturing 
+Technology, Production Management and Industrial Economics, 2017 
+2 Jeff Hansen, Manufacturing Systems Engineering, Willford Press, 2017 
+3 Mikell P. Groover, "Fundamentals of Modern Manufacturing: Materials, Processes, and Systems," 
+Wiley, 2015. 
+ 
+References 
+1 Serope Kalpakjian and Steven R. Schmid, "Manufacturing Engineering and Technology," Pearson, 
+2013. 
+2 George F. Schrader and Ahmad K. Elshennawy, "Fundamentals of Manufacturing," Society of 
+Manufacturing Engineers, 2012. 
+3 Richard Crowson, "Introduction to Manufacturing Processes," McGraw-Hill Education, 2017. 
+ 
+Useful Links 
+1 https://archive.nptel.ac.in/courses/112/104/112104188/ 
+2 https://www.youtube.com/watch?v=kC2SEiGaqoA 
+3 https://nptel.ac.in/courses/112104304 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3    2     1  1 2   
+CO2   2             
+CO3     3     1      
+                
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+The assessment is based on MSE, ISE and ESE.  
+MSE shall be typically on modules 1 to 3. 
+ISE shall be taken throughout the semester in the form of teacher’s assessment. Mode of assessment can 
+be field visit, assignments etc. and is expected to map at least one higher order PO. 
+ESE shall be on all modules with around 40% weightage on modules 1 to 3 and 60% weightage on 
+modules 4 to 6.  
+For passing a theory course, Min. 40% marks in (MSE+ISE+ESE) are needed and Min. 40% marks in 
+ESE are needed. (ESE shall be a separate head of passing)  
+ 
+ 
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. 
+Class, Semester First Year B.Tech., Sem I &II 
+Course Code 7PH155 
+Course Name Engineering Physics Lab. 
+Desired Requisites: Students are expected to know the basic practical knowledge up to HSC 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture - LA1 LA2 Lab ESE Total 
+Tutorial - 30 30 40 100 
+Practical 2 Hrs/week  
+Interaction - Credits: 1 
+Course Objectives 
+1 To gain practical knowledge by applying the experimental methods to correlate with 
+the physics theory. 
+2 To learn the usage of electrical and optical systems for various measurements. 
+3 To Apply the analytical techniques and graphical analysis to the experimental data. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+ 
+ 
+CO1 
+Calculate the diameter of the thin wire, Planck’s  constant, Refractive index 
+of liquid  / radius of curvature of Plano convex lens  , Specific rotation of 
+optical active substances, I-V characteristics of Semiconductor diode, 
+Velocity of sound in air,  Calculate R.T for specific hall/auditorium, Verify 
+the expression for the resolving power of a telescope 
+Applying 
+CO2 Demonstrate Hartley and Colpitt’s oscillator and simulation , Wavelength of 
+light by Plane diffraction grating, Wavelength of light by He-Ne LASER Applying 
+List of Experiments / Lab Activities. 
+List of Experiments/ Lab Activities- Any Eight Experiments 
+1 Find the diameter of the thin wire by diffraction of the light 
+2 Determination of wavelength of light by plane diffraction grating. 
+3 Determine the Specific rotation of sugar solution 
+4 Find the wavelength of He-Ne Laser using Plane diffraction grating. 
+5 Verify the expression for the resolving power of a telescope. 
+6 Measure the wavelength of ultrasonic waves by Kundt’s tube method. 
+7 Design and simulate Colpitt’s & Hartley Oscillator. 
+8 Determine the Planck’s constant. 
+9 Study the I-V characteristic of semiconductor diode. 
+10 Newton’s ring: Determination of wavelength of light and refractive index of liquid /radius of 
+curvature of Plano convex lens 
+11 To calculate the reverberation time of specific hall. 
+12 Determination of Fermi energy of copper using a Wheatstone bridge. 
+Text Books 
+1 C. L. Arora “Practical Physics” S. Chand & Co Edition 2009. 
+2 P.R. Sasi Kumar “Practical Physics”, PHI Learning Pvt. Ltd 1st edition 2011. 
+References 
+1 Halliday, Resnic and Walker, “Fundamentals of Physics”, John Wiley, 9th edition 2011. 
+2 A. Beiser, “Concepts of Modern Physics”, McGraw Hill International, 5th edition, 2003. 
+3 Ajoy Ghatak, “Optics”, Tata McGraw Hill 5th edition, 2012. 
+Useful Links 
+1 https://nptel.ac.in/courses/115/105/115105121/  
+2 https://www.iitg.ac.in/cet/nptel.html  
+          3 https://youtu.be/imHvRBOMg84 
+CO-PO Mapping For All B.Tech. Programs 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1 1 1              
+CO2 2               
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+Assessment (for Lab. Course) 
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing. LA1, LA2 together is treated as In-Semester Evaluation. 
+Assessment Based on Conducted by Typical Schedule (for 26-week Sem) Marks 
+LA1 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 6 
+Marks Submission at the end of Week 6 30 
+LA2 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 7 to Week 12 
+Marks Submission at the end of Week 12 30 
+Lab ESE Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 15 to Week 18 
+Marks Submission at the end of Week 18 40 
+Week 1 indicates starting week of a semester. The typical schedule of lab assessments is shown, considering a 
+26-week semester. The actual schedule shall be as per academic calendar. Lab activities/Lab performance shall 
+include performing experiments, mini-project, presentations, drawings, programming and other suitable 
+activities, as per the nature and requirement of the lab course. The experimental lab shall have typically 8-10 
+experiments. 
+Assessment Plan based on Bloom’s Taxonomy Level 
+Bloom’s Taxonomy Level LA1 LA2 Lab ESE Total 
+Remember 10 10 15 35 
+Understand 10 10 10 30 
+Apply 10 10 15 35 
+Analyze 0 0 0 0 
+Evaluate 0 0 0 0 
+Create 0 0 0 0 
+Total 30 30 40 100 
+ 
+Course Contents for BTech Programme, Department of Humanities and Science, AY 2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-2024 
+Course Information 
+Programme First Year B. Tech 
+Class, Semester Sem I and Sem II 
+Course Code 7HS101 
+Course Name  Communication & Generic skills 
+Desired Requisites: 10+2 level English 
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Lecture --- LA1 LA2  ESE Total 
+Tutorial --- 30 30  40 100 
+Practical 2Hrs/week  
+Interaction 1Hr/week Credits: 2 
+ 
+Course Objectives 
+1 Enable the students to communicate with clarity and precision. 
+2 Prepare the students to acquire structure of Oral and written expression required for 
+their profession and enable them to acquire proper behavioural skills  
+3 
+Provide relevant knowledge about generic skills, its importance and enable them to 
+understand personal attributes like commitment, loyalty, ethical values, team building, 
+and ensure exposure to personal growth. 
+4 Infuse the ability to positively consider other’s views and to work effectively in teams 
+and teach them self-management skills, problem solving skills and technological skills. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+CO1 Communicate clearly, precisely and competently in different scenario Apply 
+CO2 Acquire basic proficiency in English including reading and listening 
+comprehension, writing and speaking skills. Understand 
+CO3 
+Practice Lifelong Learning (LLL) with positive attitude. loyalty, 
+commitment, reliability, self-development and manage himself/herself 
+physically, intellectually and psychologically. 
+Apply 
+CO4 Work ethically and effectively as a team member, manage tasks 
+effectively and apply knowledge to solve problems. Apply 
+ 
+Module Module Contents Hours 
+I 
+Module 1: Introduction to communicative English 
+ 
+ 1.Fundamentals  
+ 2. Elements  
+ 3.Process  
+ 4.Types   
+ 5.Barriers 
+ 6.Need to develop good interpersonal and intrapersonal skills 
+ 7.Developing effective Listening Skills (types, Barriers, listening and 
+note making) 
+02 
+II 
+Module2: Communicative Grammar & Developing advanced.  
+ 
+Vocabulary. 
+1.Modal verbs, non-modal verbs ,semi-modal verbs 
+2.Question tags 
+3.Misplaced Modifiers 
+4.Passives 
+5.Phrasal verbs 
+ 
+Vocabulary:  
+1. Connectives, 
+2. Prefixes and suffixes,  
+3.Synonyms and Antonyms  
+4.one-word substitutions , 
+5.Re-arranging Jumbled sentences 
+6.redundancies  
+ 
+05 
+Course Contents for BTech Programme, Department of Humanities and Science, AY 2023-24 
+III 
+Module 3 : Formal Communication Skills 
+ 
+a. Oral skills: Developing non-verbal skills. 
+1.Extempore /Public Speaking Skills ( speeches) 
+2.Group Presentation 
+3.Individual Presentations 
+ 
+b. Written Skills: 
+1.Paragraph Writing  
+2.Comprehension passage 
+3.Inter-office communication – Memorandums ,Circulars 
+4.Report Writing  
+ 
+05 
+IV 
+Module 4: Introduction to Generic Skills 
+a.  Importance of Generic Skill Development (GSD)   
+b.  Global and Local Scenario of GSD 
+c.  Lifelong Learning (LLL) and associated importance of GSD. 
+ 
+01 
+V 
+Module 5:  Self-management skills       
+ 
+1.  Knowing Self for Self-Development. (01 hrs) 
+a. Self-concept. 
+b. Attitude, 
+c. Self-esteem.  
+d. Self-confidence. 
+e. Self-motivation.  
+ 
+2 Personal Attributes (02 hrs) 
+a. Loyalty. 
+b. Commitment. 
+c. Honesty and integrity.  
+d. Reliability. 
+e. Enthusiasm.  
+f. Balanced attitude while studying, working and home life. 
+ 
+3.  Managing Self – Physical (02 hrs) 
+a. Personal grooming.  
+b. Health, Hygiene. 
+c. Time Management. 
+ 
+4. Managing Self – Psychological (02 hrs) 
+a. Stress, Emotions, Anxiety- concepts and significance.  
+b. Exercises related to stress management. 
+c. Techniques to manage the above.  
+ 
+07 
+ 
+VI 
+Module 6: Teamwork Skills  
+1.  Team  Building       (01 hrs.) 
+Definition, hierarchy, team dynamics. 
+ 
+2.  Team related skills.    (02 hrs) 
+a. Sympathy, empathy. 
+b. co-operation, concern, lead and negotiate.  
+c. work well with people from culturally diverse background.  
+ 
+3.  Technological Skills. (02 hrs.)  
+a. Task Initiation, Task Planning, Task execution, Task close out 
+b. Exercises/case studies on task planning towards development of 
+skills for task management.    
+4. Problem Solving skills.    (02 hrs.)  
+a. Prerequisites of problem solving- meaningful learning, ability to 
+apply knowledge in problem solving. 
+b. Different approaches for problem solving. 
+c. Steps followed in problem solving. 
+d. Exercises/case studies on problem solving. 
+ 
+ 
+ 
+07 
+ 
+Course Contents for BTech Programme, Department of Humanities and Science, AY 2023-24 
+ 
+Text Books 
+1  Textbook:    Sanjay Kumar, Pushpalata, Communication Skills, Oxford University   Press, 
+First edition ,2012 
+ 
+References 
+1 Ashraf Rizvi, Effective  Technical Communication, Tata McGraw Hills publishing 
+Company 2006 
+2 William Sanborn Pfeiffer, T.V.S.  Padmaja, Technical  Communication: A Practical 
+Approach, Pearson, Sixth Edition 2012 
+3 Exercises in Spoken English, Parts 1 and II CIEFL, Hyderabad, Oxford University Press 
+ 
+Useful Links 
+1 www.oupinheonline.com 
+2 www.scitechpublications.com 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1          1      
+CO2          1      
+CO3         2   2    
+CO4        2 3       
+The strength of mapping is to be written as 1,2,3; Where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO. 
+ 
+Assessment  
+The assessment is based on two In-semester evaluations (LA) of 30 marks each, one End-semester 
+examination (ESE) of 40 marks. 
+LA1 and LA2 are based on the modules taught (typically Module 1-3) and ESE is based on all modules with 
+30-40% weightage on modules before LA1 and 60-70% weightage on modules LA2.  
+ 
+ 
+ 
+ 
+ 
+  
+Assessment Plan based on Bloom’s Taxonomy Level 
+Bloom’s Taxonomy Level LA1 LA2 ESE Total 
+Remember     
+Understand 10 10 10 30 
+Apply 20 20 30 60 
+Analyse     
+Evaluate     
+Create     
+Total 30 30 40 100 
+Course Contents for BTech Programme, Applied Mechanics Department, AY2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (All Branches) 
+Class, Semester First Year B. Tech., Sem I/II 
+Course Code 7AM155 
+Course Name  Engineering Mechanics Lab 
+Desired Requisites: Engineering Mechanics  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2 Hrs/ Week LA1 LA2 Lab ESE Total 
+Interaction --- 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To provide hands on practice for the conduct of experiments to verify the principles of mechanics 
+2 To demonstrate the graphical methods to verify the analytical solutions 
+  
+  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Demonstrate verification of laws and basic principles of mechanics 
+through experiments. III Applying 
+CO2 Apply graphical method to solve problems on force system, beams, 
+and frames. III Applying 
+ 
+List of Experiments / Lab Activities/Topics 
+List of Experiments : 
+ 
+1. Verification of law of triangle of forces 
+2. Verification of law of polygon of forces 
+3. Determination of support reactions for Simply Supported Beam 
+4. Verification of the principle of moments using Bell crank lever apparatus 
+5. Determination of the coefficient of friction for motion on horizontal plane 
+6. Determination of the coefficient of friction for motion on inclined plane 
+7. Analysis of concurrent and non-concurrent coplanar force system by graphical method  
+8. Analysis of statically determinate beams by graphical method  
+9. Analysis of pin jointed perfect plane frames by graphical method 
+ 
+Textbooks 
+1 Lab Manual Link - https://atifmohd077.files.wordpress.com/2019/03/em-lab-manual-1.pdf 
+2 Lab Manual Links - https://jecassam.ac.in/wp-content/uploads/2018/10/1_Engineering-
+Mechanics-Laboratory-2nd-SEM-DU-Old-Course.pdf 
+3 Bhavikatti., S. S. and Rajashekarappa., K. G. “Engineering Mechanics”, New Age International 
+Publishers, 2015, 5th Edition. 
+ 
+References 
+1 Ramamrutham., S. “Textbook of Applied Mechanics”, Dhanpat Rai Publishing Company 
+Limited, 2008. 
+2 Beer, F. P. and Johnston, E. R. “Vector Mechanics for Engineers Vol. I and II”, McGraw Hi ll 
+Company Publication, 2011, 9th Edition. 
+3 R. K. Bansal “Engineering Mechanics” Laxmi Publications,ltd. 
+ 
+Course Contents for BTech Programme, Applied Mechanics Department, AY2023-24 
+ 
+Useful Links 
+1 https://nptel.ac.in/courses/112106286  
+2 https://www.youtube.com/watch?v=9Yt3I4bP-90  
+3 https://www.vlab.co.in/broad-area-civil-engineering 
+4 Virtual Lab link by IIT Mumbai  - http://vlabs.iitb.ac.in/vlab/labsme.html 
+ 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1    1           
+CO2  1             
+The strength of mapping is to be written as 1,2,3; where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO, and preferably to only one PO. 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessment Based on Conducted by Typical Schedule  Marks 
+LA1 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of 
+Week 8 
+30 
+LA2 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of 
+Week 16 
+30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course Faculty and 
+External Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of 
+Week 19  
+40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8 -10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+Proposed Course Contents for B. Tech. Programme, Department of Electrical Engineering, AY 2023-24 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B. Tech. (Mechanical) 
+Class, Semester First Year B. Tech., Sem I 
+Course Code 7CV156 
+Course Name  Basic Civil Engineering Lab 
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2 Hrs/ Week LA1 LA2 Lab ESE Total 
+Interaction - 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To introduce students to fundamental civil engineering experiments and procedures. 
+2 To develop practical skills in handling civil engineering equipment and instruments. 
+3 To promote teamwork, problem-solving, and analytical skills while conducting experiments and 
+interpreting results. 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Demonstrate identification and reading ability of elements in building 
+drawing. II Understanding 
+CO2 Examine the material properties and comment on their quality.  III Applying 
+CO3 Use surveying equipment to measure distance and area. III Applying 
+ 
+List of Experiments / Lab Activities/Topics 
+List of Topics (Applicable for Interaction mode): 
+1. Study and identify basic elements in 
+i) Site plan,  
+ii) Plan, elevation and section of a residential building  
+2. Study water supply and sanitation plan of a residential building 
+3. Field tests on brick 
+4. Field tests on cement  
+5. Measurement of horizontal distances by using  tape and pedometer 
+6. Measurement of horizontal angles by using prismatic compass  
+7. Area measurement by planimeter 
+8. Determination of levels by Dumpy Level/Auto level 
+9. Demonstration of total station 
+10. Study of any two construction equipment  
+ 
+Textbooks 
+1 Hirasakar G. K., “Basic Civil Engineering”, DhanpatRai publications, 1st Edition,2007 
+2 Gole L.G., “Introduction to Civil Engineering”, Mahu Publisher House, 4th Edition, 2005 
+3 Bhavikatti S.S., “Basic Civil Engineering”, New Age Publications, 2010 
+ 
+References 
+1 Duggal S.K., “Surveying (Vol I)”, Tata McGraw Hill, 4th edition 2013 
+2 Bindra S.P., Arora S.P. , “Building Construction”, Dhanpat Rai publication, 5th edition, 2012 
+ 
+Useful Links 
+ 
+Proposed Course Contents for B. Tech. Programme, Department of Electrical Engineering, AY 2023-24 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 
+CO1 3  1            
+CO2 3  1            
+CO3      2         
+The strength of mapping is to be written as 1,2,3; where, 1: Low, 2: Medium, 3: High 
+Each CO of the course must map to at least one PO, and preferably to only one PO. 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessment Based on Conducted by Typical Schedule  Marks 
+LA1 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of 
+Week 8 
+30 
+LA2 
+Lab activities, 
+attendance, 
+journal 
+Lab Course Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of 
+Week 16 
+30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course Faculty and 
+External Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of 
+Week 19  
+40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. (Mechanical) 
+Class, Semester First Year B. Tech., Sem-II 
+Course Code 7ME152 
+Course Name  Manufacturing Systems Lab 
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2Hrs/Week LA1 LA2 ESE Total 
+Interaction ---- 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To impart the techniques of Manufacturing Systems. 
+2 To prepare the students for applying knowledge of Mechanical engineering. 
+3 To develop the skills of students in basic Mechanical Engineering processes. 
+ 
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO Course Outcome Statement/s 
+Bloom’s 
+Taxonom
+y Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Recall the basic working principles of Manufacturing and 
+Automation. 
+I Remembering 
+CO2 Understand the basic design process and its applications. II Understanding 
+CO3 Apply the knowledge of geometric dimensioning and tolerancing in 
+real life applications. 
+III Applying 
+ 
+List of Experiments / Lab Activities 
+List of Experiments: 
+1. Demonstration of basic conventional machining and manufacturing systems. (2 Practicals) 
+2. Demonstration of Non-Conventional manufacturing techniques. (2 Practicals) 
+3. Demonstration of metrology measurement techniques. (2 Practicals) 
+4. Drawing of dimensioning and tolerancing sheet. (2 Practicals) 
+5. Demonstration of automation lab. (2 Practicals) 
+6. Demonstration of 3D modelling and PLM techniques. (3 Practicals) 
+ 
+Text Books 
+1 Katsundo Hitomi , Manufacturing Systems Engineering:  A Unified Approach to Manufacturing 
+Technology, Production Management and Industrial Economics, 2017 
+2 Jeff Hansen, Manufacturing Systems Engineering, Willford Press, 2017 
+3 Mikell P. Groover, "Fundamentals of Modern Manufacturing: Materials, Processes, and Systems," 
+Wiley, 2015. 
+ 
+References 
+1 Serope Kalpakjian and Steven R. Schmid, "Manufacturing Engineering and Technology," Pearson, 
+2013. 
+2 George F. Schrader and Ahmad K. Elshennawy, "Fundamentals of Manufacturing," Society of 
+Manufacturing Engineers, 2012. 
+3 Richard Crowson, "Introduction to Manufacturing Processes," McGraw-Hill Education, 2017. 
+ 
+Useful Links 
+1 https://archive.nptel.ac.in/courses/112/104/112104188/ 
+ 
+2 https://www.youtube.com/watch?v=kC2SEiGaqoA 
+3 https://nptel.ac.in/courses/112104304 
+ 
+CO-PO Mapping For Mechanical Engineering Department 
+ Programme Outcomes (PO) PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2  
+CO1 3    2     1  1 2   
+CO2   2             
+CO3     3     1      
+                
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing.(min 40 %), LA1+LA2 should be min 40% 
+Assessmen
+t 
+Based on Conducted by Typical Schedule  Mark
+s 
+LA1 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 8 
+Marks Submission at the end of Week 8 30 
+LA2 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 9 to Week 16 
+Marks Submission at the end of Week 16 30 
+Lab ESE 
+Lab activities, 
+journal/ 
+performance 
+Lab Course 
+Faculty and 
+External 
+Examiner as 
+applicable 
+During Week 18 to Week 19 
+Marks Submission at the end of Week 19  40 
+Week 1 indicates starting week of a semester. Lab activities/Lab performance shall include performing 
+experiments, mini-project, presentations, drawings, programming, and other suitable activities, as per the 
+nature and requirement of the lab course. The experimental lab shall have typically 8-10 experiments and 
+related activities if any. 
+ 
+ 
+ 
+Walchand College of Engineering, Sangli 
+(Government Aided Autonomous Institute) 
+AY 2023-24 
+Course Information 
+Programme B.Tech. All Branches 
+Class, Semester First Year B. Tech. SEM-I & II 
+Course Code 7VS151 
+Course Name  Engineering Skills (Mechanical/Civil) Lab 
+Desired Requisites:  
+ 
+Teaching Scheme Examination Scheme (Marks) 
+Practical 2Hrs/Week LA1 LA2 ESE Total 
+Interaction - 30 30 40 100 
+  Credits: 1 
+ 
+Course Objectives 
+1 To train the students to use different tools and equipments involved in the manufacturing processes 
+2 To develop the skills to handle the basic cutting  tools and devices  required for various 
+manufacturing processes, interpret the given job drawing, select relevant fitting tools 
+3 To prepare the students to carry out the various operations to make a finished product 
+4 To prepare approximate Estimate of material requirement in constructed structure and to calculate 
+FSI  
+Course Outcomes (CO) with Bloom’s Taxonomy Level 
+At the end of the course, the students will be able to, 
+CO 
+ 
+                     Course Outcome Statement/s 
+Bloom’s 
+Taxonomy 
+Level 
+Bloom’s 
+Taxonomy 
+Description 
+CO1 Illustrate the simple mechanical systems, machines, equipment, the 
+basic working of cutting tools for manufacturing. 
+II Understanding 
+CO2 Use of Fitting tools, job holding devices, measuring tools III Apply 
+CO3 Defining the building line out and masonry construction. II Understanding 
+CO4 calculate the FSI and terminologies related to building plan. III Apply 
+CO5 Estimate the material requirement in constructed structure. II Apply 
+CO6 Sketch building plan. II Apply 
+ 
+List of Experiments / Lab Activities 
+List of Experiments [Mechanical]: 
+1. Introduction to woodworking,the hand tools required and machines:  
+Perform Planing operation,Cutting by chisel to prepare small wooden job [Square joint type] (4 Hrs) 
+2. Introduction to fitting shop tools, equipment/machines:   
+Job consisting of male and female parts  viz.one with groove, another with matching 
+projection,holes on both  and their assembly, as per given job drawing. 
+operations to be performed:Marking,Punching,Sawcutting,Drilling, Edge filing  operations (6 Hrs.) 
+3. Introduction to sheet metal work : Job of  small sheet metal tray as per given job drawing  with 
+following operations: Marking,Cutting,bending/folding (4 Hrs.) 
+ 
+List of Experiments [Civil]: 
+1. Establishing verticality right angle corner level difference in masonry construction (2 Hrs) 
+2. Line out building plan on site (2 Hrs) 
+3. Estimate quantities/ material (4Hrs) 
+a) Brickwork 
+b) Concrete component 
+c) Flooring 
+4. Sketching of building plan and calculation of FSI (2Hrs) 
+Text Books [Mechanical] 
+1 Raghuwanshi B. S.,”A Course in Workshop Technology I”,Dhanpat Rai Publications,10th Ed.,2009 
+2 S. K. Hajra Choudhury and A. K. HajraChoudhary,“Workshop Technology” – Vol I [Manufacturing 
+Processes]”,Media Promoters and Publishers Pvt. Ltd., 10th edition, reprint 2001 
+3 Bawa . H S . “Workshop Practice, ” McGraw Hill Education, Noida, 2nd edition ,2009 
+ISBN-13: 978-0070671195 
+4 Gupta, J. K . ; Khurmi ,  “A Textbook of Manufacturing Process” (Workshop Tech.) R S S Chand 
+and Co., New Delhi,2020, ISBN:81-219-3092-8 
+5 Singh Rajender, “Introduction to Basic Manufacturing Process and Workshop Technology ”,New 
+Age International, New Delhi; 2014, ISBN: 978-81-224-3070-7 
+References [Mechanical] 
+1 W.A.J. Chapman, “Workshop Technology Volume I”, CBS Publishing & Distributors, Delhi. 
+[ISBN-13:9788123904016] 2001 
+2 Rao P.N., “Manufacturing Technology”, Vol. I and Vol. II, Tata McGraw Hill House,2017 
+3 Gowri P. Hariharan and A. Suresh Babu, “Manufacturing Technology – I” Pearson Education, 2008 
+Text Books [Civil] 
+1. Hirasakar G. K., “Basic Civil Engineering”, DhanpatRai publications, 1st Edition,2007 
+2. Gole L.G., “Introduction to Civil Engineering”, Mahu Publisher House, 4th Edition, 2005 
+3. Bhavikatti S.S., “Basic Civil Engineering”, New Age Publications, 2010 
+  
+References [Civil] 
+1 Duggal S.K., “Surveying (Vol I)”, Tata McGraw Hill, 4th edition 2013 
+2 Bindra S.P., Arora S.P. , “Building Construction”, Dhanpat Rai publication, 5th edition, 2012 
+ 
+ 
+Useful Links 
+1 https://www.vlab.co.in/broad-area-mechanical-engineering 
+2 https://drive.google.com/file/d/1tp5yV2ghp_Slub58S7iKnvvJyoEwQVYq/view 
+3 https://www.youtube.com/@workshop.supdtjmdabir5653 
+4 https://www.youtube.com/watch?v=gPaBULgRRuM 
+5 https://www.youtube.com/watch?v=-f7tTNRH_04 
+6 https://www.youtube.com/watch?v=UD3q5R0N8U4 
+7 https://www.youtube.com/watch?v=uapzeNwKq4U 
+8 https://www.youtube.com/watch?v=jbRgJbIGAwc 
+9 https://www.youtube.com/watch?v=TeErxz59Sss 
+10 https://www.youtube.com/watch?v=F4SwbJ1euB8 
+11 https://www.youtube.com/watch?v=cuv-tP6JHEI 
+12 https://www.youtube.com/watch?v=vUIY_BiLyFI 
+13 https://www.youtube.com/watch?v=xMQOR6Jg3o4 
+14 https://www.youtube.com/watch?v=OdrBpPNJMaI 
+15 https://www.youtube.com/watch?v=uAIXHqOm0AM 
+16 https://www.youtube.com/watch?v=DzCBASUKpF4 
+17 https://www.youtube.com/watch?v=TQ_NeHenT9Y 
+18 https://www.youtube.com/watch?v=rkp2Uvpop-g 
+19 https://www.youtube.com/watch?v=iDJ_sMvXsYs 
+20 https://www.youtube.com/watch?v=xZgtyNdGHvs 
+ 
+CO-PO Mapping 
+ Programme Outcomes (PO) Mechanical PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+ Programme Outcomes (PO) Civil PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+                
+ Programme Outcomes (PO) Electrical PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+                
+ Programme Outcomes (PO) Electronics PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+                
+ Programme Outcomes (PO) Information Technology PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+ Programme Outcomes (PO) Computer Science and Engineering PSO 
+ 1 2 3 4 5 6 7 8 9 10 11 12 1 2 3 
+CO1    1            
+CO2    1            
+CO3     1           
+The strength of mapping is to be written as 1,2,3; Where, 1:Low, 2:Medium, 3:High 
+ 
+Assessment  
+There are three components of lab assessment, LA1, LA2 and Lab ESE. 
+IMP: Lab ESE is a separate head of passing. LA1, LA2 together is treated as In-Semester Evaluation. 
+Assessment Based on Conducted by Typical Schedule (for 26-week 
+Sem) 
+Marks 
+LA1 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 1 to Week 6 
+Marks Submission at the end of 
+Week 6 
+30 
+LA2 Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 7 to Week 12 
+Marks Submission at the end of 
+Week 12 
+30 
+Lab ESE Lab activities, 
+attendance, journal 
+Lab Course 
+Faculty 
+During Week 15 to Week 18 
+Marks Submission at the end of 
+Week 18  
+40 
+Week 1 indicates starting week of a semester. The typical schedule of lab assessments is shown, 
+considering a 26-week semester. The actual schedule shall be as per academic calendar. Lab 
+activities/Lab performance shall include performing experiments, mini-project, presentations, drawings, 
+programming and other suitable activities, as per the nature and requirement of the lab course. The 
+experimental lab shall have typically 8-10 experiments. 
+ 
+ 
+
+
+

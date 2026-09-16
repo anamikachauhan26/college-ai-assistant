@@ -1,0 +1,127 @@
+Overview
+Home
+Department of Information Technology
+Overview
+Quick Menu
+Overview
+B Tech Curriculum with Minors
+M. Tech Specialisations and Curriculum
+Academic Planning & Activities
+Resources
+Faculty
+Students Development
+Achievements
+Overview: Department of Information Technology
+Information Technology (IT) Department was established in 2001 with an Under-Graduate (UG) programme and then Post Graduate (PG) was started in 2012. Both UG and PG programmes are NBA accredited. The curriculum contains professional core courses, professional elective courses, open elective and professional elective has five tracks. The track system provides the students; the flexibility to choose the elective courses based on the aptitude, interests and career plan of students. Courses and course contents are designed by taking inputs from Industry Consultation Committee (ICC).
+Department offers Certifications for Minor in Artificial Intelligence-Machine Learning (AI-ML) and Web Development (WD), Honor in Block-chain Technology (BCT), Software Project Development (SPD), IT System & Management (ITSM) and Value Added Courses (VAC) like Cloud Computing: Industry Driven Approach, Machine Learning using Python and Responsive Web Design. IT Department also provides support for research guidance to Ph.D. (CSE) of Shivaji University, Kolhapur, under ADF and QIP schemes.
+Department has consistent performance in academics and placement. Department has highly equipped and updated nine laboratories for UG and PG. Department has received various research projects/funding’s from National/International agencies like DRDO/ AICTE/ DST/ NVidia/etc. Department best practices are- e-learning motivations through Open Electives and professional Electives form MOOC (massively open online courses), 24×7 Lab availability lab with 800Mbps internet facility, use of Free & Open Source Software and Tools to learn the curriculum. Students are engaged in various co-curricular and extracurricular activities of SAIT, WLUG, PACE, etc.
+Objectives
+The Department of Information Technology is dedicated to shaping competent IT professionals who can contribute meaningfully to the digital world. The department strives to achieve the following objectives:
+Deliver Quality IT Education
+Provide a robust and contemporary curriculum that imparts theoretical knowledge and practical skills in information technology, preparing students for careers in software development, systems management, data analytics, and beyond.
+Promote Innovation and Research
+Encourage students and faculty to engage in cutting-edge research and innovative projects in areas such as cloud computing, IoT, cyber security, block chain, AI, and mobile applications.
+Build Industry-Ready Talent
+Equip students with hands-on experience, domain knowledge, and professional skills to meet the dynamic needs of the IT industry through labs, certifications, internships, and industry-linked projects.
+Foster Lifelong Learning and Adaptability
+The importance of continuous professional development and adaptability to emerging technologies and industry trends through workshops, online learning, and certifications.
+Enhance Industry Collaboration
+Collaborate with IT companies, start-ups, and research institutions to offer students real-world exposure, internships, joint research opportunities, and employment prospects.
+Encourage Entrepreneurial Thinking
+Support and guide students in transforming innovative ideas into viable business solutions by promoting entrepreneurship and start up incubation.
+Promote Ethical and Social Responsibility
+Develop responsible IT professionals who uphold ethical values and contribute to solving societal problems through the application of technology.
+Strive for Academic Excellence
+Continuously enhances teaching-learning practices, faculty development, and infrastructure to maintain high academic standards and improve student outcomes.
+Policy
+The Department of Information Technology is dedicated to delivering high-quality education, fostering cutting-edge research, and promoting ethical and professional values in the field of IT. The department is committed to creating a dynamic learning environment that integrates theoretical foundations with practical skills, enabling students to solve real-world problems using modern technologies.
+Vision
+To be an Information Technology programme as the first choice by the aspiring students and prospective employers by implementing world class education practices.
+Mission
+To meet above Vision, all stakeholders of this programme are committed towards Outcome Based Education Philosophy by-
+Adopting vibrant academic curricula and implementing innovative teaching learning processes
+Providing opportunities to the students for the development of professional skills
+Nurturing critical thinking and creativity in students
+Inculcating students the life-long learning attitude and sensitivity towards society & environment
+Strength
+The Department of Information Technology stands out for its key strengths, which include:
+Experienced and Qualified Faculty
+: Led by Ph.D. holders and research-oriented educators with rich teaching and industry experience.
+Industry-Relevant Curriculum
+: Choice-based credit system with electives in emerging areas like AI, Data Science, IoT, and Cyber security.
+Strong Research Focus
+: Active involvement in funded projects, patents, and high-quality publications in reputed journals and conferences.
+Excellent Placement Record
+: Consistently high placement rate with top recruiters from IT services, product companies, and start-ups.
+Modern Laboratories
+: Well-equipped labs supporting advanced technologies and hands-on learning.
+Project-Based Learning
+: Emphasis on real-world problem solving through mini and major projects, internships, and hackathons.
+Skill Development Initiatives
+: Regular workshops, coding competitions, and FDPs for continuous learning.
+Collaborative Environment
+: Strong industry-academia interaction and inter-departmental project opportunities.
+These strengths collectively position the department as a leader in Information Technology education, research, and innovation.
+Areas of Expertise
+The Department of Information Technology Engineering excels in the following areas of expertise:
+High performance Computing
+Computer Security
+Soft Computing
+Data Mining, GIS
+Image Processing
+Computer Networks
+Internet of Things
+Machine and deep Learning
+Machine Learning
+Software Defined Network
+Signal Image Processing
+Computer Network, IOT
+Web Technology
+IoT
+Cloud computing
+These areas of expertise enable the department to provide students with advanced knowledge and practical skills, preparing them for leadership roles in the ever-evolving technology landscape.
+Salient Department Features
+Silent Department Features:
+The Department of Information Technology at Walchand College of Engineering stands out for its unique features and strengths, including:
+1. Academic Excellence:
+Industry-aligned curriculum focusing on foundational and advanced topics.
+Highly qualified faculty with expertise in cutting-edge technologies. Nearly 90% of faculties are PhD registered.
+2. State-of-the-Art Infrastructure:
+Modern computer labs are equipped with high-performance systems.
+Access to advanced tools, software, and cloud computing platforms.
+3. Research and Innovation:
+Active research in emerging fields like AI, machine learning, data science, and IoT.
+Regular publications in reputed journals and conference participations with Scopus and SCI indexing.
+4. Strong Industry Interface:
+Collaborations with leading tech companies for internships, placements, and projects.
+Industry-expert guest lectures, workshops, and certifications.
+5. Skill Development Opportunities:
+Emphasis on hands-on learning through hackathons, coding challenges, and projects.
+Active technical clubs and student organizations fostering innovation.
+6. Global Competence:
+Alumni placed in top organizations and pursuing higher education globally.
+Exposure to international competitions and exchange programs.
+7. Student-Centric Environment:
+Personalized mentoring by faculty for academic and professional growth.
+Focus on holistic development through extracurricular and co-curricular activities.
+8. Placement Excellence:
+High placement rates with opportunities in top companies like Google, Amazon, Microsoft.
+Dedicated training for technical interviews, coding tests, and soft skills.
+9. Continuous Improvement:
+Regular updates to the curriculum and teaching methodologies.
+Feedback-driven enhancements for a superior learning experience.
+These features collectively position the department as a leader in producing highly skilled, innovative, and socially responsible engineers.
+Leadership
+Dr. Rathod avindra Ramkishan
+(Head of the Department of Information Technology)
+Dr. Rathod Ravindra Ramkishan
+is the Head of the Department of Information Technology at Walchand College of Engineering, Sangli. He has been a faculty member at the institute since 2004 and has contributed extensively to the development of the IT department through his teaching, research, and academic leadership. Dr. Rathod earned his Ph.D. in Computer Science and Engineering from the Indian Institute of Technology (IIT) Roorkee, and completed his M.E. from Walchand College of Engineering and B.E. from MGM’s College of Engineering, Nanded.
+His research interests span data mining, geographic information systems (GIS), artificial intelligence, and image processing. He has published several research papers in reputed international journals and conferences and holds one published patent with FER submission in 2022. Dr. Rathod has actively participated in faculty development, having attended over 25 weeks of FDPs and organized two. He has also completed multiple NPTEL/SWAYAM courses to continuously update his knowledge and pedagogy.
+In recognition of his excellence in teaching, Dr. Rathod received the prestigious “Ideal Teacher Commendable Prize” in 2009 from Walchand College of Engineering. He remains actively involved in academic mentoring and curriculum development, and is a valued member of the research community, with profiles on Google Scholar, ORCID, and Scopus. His dedication and contributions have established him as a respected academic and mentor within the institute.
+Share this page,
+Search
+Search
+Follow Us
+Facebook
+Linkedin
+Instagram

@@ -1,0 +1,494 @@
+B Tech Curriculum with Minors
+Home
+Department of Information Technology
+B Tech Curriculum with Minors
+Quick Menu
+Overview
+B Tech Curriculum with Minors
+M. Tech Specialisations and Curriculum
+Academic Planning & Activities
+Resources
+Faculty
+Students Development
+Achievements
+B.Tech Curriculum with Minors
+Curriculum
+– The B.Tech curriculum in Information Technology is designed to provide students with a comprehensive education in Information Technology.
+In the Academic Year 2024-2025 curriculum of First year and Second Year is implemented as per NEP 2020 policy which includes multidisciplinary minor (MDM) as well. IT department offers MDM in Information Technology and FinTech (14 credits).
+Minors –
+The department offers minors in areas such as Operating System, Computer Network, Software Engineering and Data Visualization and Analysis
+Program Objective and Outcome
+Graduates of UG Programme after completing their graduation in Information Technology will be able to:
+PEO1:
+Demonstrate technical competency by applying knowledge to solve problems related to Engineering issues.
+PEO2:
+Exhibit high professional skills and ethical attitude to succeed in their professional career.
+PEO3:
+Display thirst for emerging technologies and quest for research and innovation to solve real-world problems of high complexity, with concern to society and environment
+Program Outcomes
+PO1:
+Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem Analysis:
+Identify, formulate, review research literature, and Analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3: Design/Development of Solutions: D
+esign solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4: Conduct Investigations of Complex Problems:
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5: Modern Tool Usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6: The Engineer and Society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice
+PO7: Environment and Sustainability:
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8: Ethics:
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9: Individual and Team Work:
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10: Communication:
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11: Project Management and Finance:
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12:
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Outcomes
+PSO1:
+Apply Software Engineering practices, Programming logic, networking techniques and Information Storage Management in project development process.
+PSO2
+: Conceptualize ideas into IT based solutions with industry interaction using cutting edge technologies such as Data Mining, High Performance Computing, Artificial Intelligence, Machine Learning, Computer Vision and Information Security
+Outcome Based Educational Philosophy
+Outcome Based Education (OBE) is top down approach to comply with Vision, Mission, PEOs, POs and COs for development of academics and students. However, the bottom up approach is also followed to attain COs, POs, PEOs and VMO of department and institute through teaching learning process. The direct attainment from continuous assessment and indirect attainment from students, graduates, employers, alumni and parents feedbacks helps to achieve targeted attainment in OBE.
+Structure
+Tabular form of Program Structure (Link to be provided for detailed note)
+First Year: SEM-I  A. Y. 2023-24 onwards
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/ LA2
+ESE
+Professional Core (Theory)
+7MA104
+Engineering Mathematics – II
+7CH103
+Engineering Chemistry
+7EE106
+Electrical & Electronics Engineering
+7CS102
+Basics of Web Technology
+Professional Core
+7CH155
+Engineering Chemistry Lab
+7EE156
+Electrical & Electronics Engineering Lab
+7CS108
+Computer Programming
+7ME108
+Engineering Graphics
+7CS152
+Basics of Web Technology Lab
+7VS152
+Engineering Skills – II
+Total
+First Year: SEM- II  A. Y. 2023-24 onwards
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/LA2
+ESE
+Professional Core (Theory)
+7MA104
+Engineering Mathematics II
+7CH103
+Engineering Chemistry
+7EE106
+Electrical & Electronics Engineering
+7CS102
+Basics of Web Technology
+Professional Core (Lab)
+7CH155
+Engineering Chemistry Lab
+7EE156
+Electrical & Electronics Engineering Lab
+7CS108
+Computer Programming
+7ME108
+Engineering Graphics
+7CS152
+Basics of Web Technology Lab
+7VS152
+Engineering Skills II
+Total
+Second Year: SEM- III  A. Y. 2024-25 onwards
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+Professional Core(Theory)
+BSC
+7MA206
+Discrete Mathematics
+IKS
+Refer List
+IKS Elective
+EEM
+7EE201
+Understanding Incubation and Entrepreneurship
+PCC
+7IT201
+Data Structures
+PCC
+7IT202
+Computer Network
+PCC
+7IT203
+Computer Architectures and Microprocessor
+Professional Core (Lab)
+PCC
+7IT251
+Data Structures Lab
+POE
+PCC
+7IT252
+Computer Network Lab
+POE
+PCC
+7IT253
+Python Programming Lab
+PCC
+7IT254
+OOP-I (CPP Programming) Lab
+POE
+Total
+Second Year: SEM - IV  A. Y. 2024-25 onwards
+Sr.No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/LA1
+ISE/  LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7IT221
+Applied Mathematics
+PCC
+7IT222
+Software Engineering
+PCC
+7IT223
+Operating System
+PCC
+7IT224
+Theory of Computation
+Professional Core (Lab)
+PCC
+7IT271
+OOP-II (Java Programming) Lab
+POE
+PCC
+7IT272
+Android Programming Lab
+Multi-Disciplinary Minor (Minor)
+MDM
+Refer List
+MDM
+Mandatory Courses
+AEC
+7AE201
+Employability Skills
+VEC
+7VE201
+Values Education
+VSEC
+7VSIT245
+Mini-Project-1
+POE
+Total
+T. Y.  B.Tech. (Information Technology) SEM - V A.Y.  2025-26
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7IT301
+Database Engineering
+PCC
+7IT302
+Computer Algorithms
+PCC
+7IT303
+Cryptography & Network Security
+Professional Core (Lab)
+PCC
+7IT351
+Unix Operating System Lab
+POE
+PCC
+7IT352
+Database Engineering Lab
+PCC
+7IT353
+IT Practices Lab 1
+POE
+Multi-Disciplinary Minor (Minor)
+MDM
+Refer List
+MDM
+Mandatory Courses
+VSEC
+7VSIT346
+Mini-Project-3
+AEC
+7AE201
+Employability Skills
+VEC
+7VE201
+Values Education
+Total
+T. Y.  B.Tech. (Information Technology) SEM - V A.Y.  2025-26
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7IT301
+Database Engineering
+PCC
+7IT302
+Computer Algorithms
+PCC
+7IT303
+Cryptography & Network Security
+Professional Core (Lab)
+PCC
+7IT351
+Unix Operating System Lab
+POE
+PCC
+7IT352
+Database Engineering Lab
+PCC
+7IT353
+IT Practices Lab 1
+POE
+Multi-Disciplinary Minor (Minor)
+MDM
+Refer List
+MDM
+Mandatory Courses
+VSEC
+7VSIT346
+Mini-Project-3
+AEC
+7AE201
+Employability Skills
+VEC
+7VE201
+Values Education
+Total
+Open Elective Course List
+TY B.Tech(IT) SEM -V AY 2024-25
+Sr.No.
+Track
+Course Code
+Course Name
+IT Engg.
+6OE385
+Cloud Computing System
+IT Engg.
+6OE386
+Joy of Python Programming
+IT Engg.
+6OE387
+Data Science for Engineers
+Sr.No.
+Offering Dept.
+Course Code
+Course Name
+Civil Engg.
+6OE301
+Building Planning and Design
+Civil Engg.
+6OE302
+Disaster Management
+Applied Mechanics Dept
+6OE315
+Theory of Structures
+Mechanical Engg.
+6OE329
+Non-Conventional Machining Processes
+Electrical Engg.
+6OE343
+Electrical Machine Technology
+Electronics Engg.
+6OE357
+Introduction to Electronic Systems
+Electronics Engg.
+6OE358
+Signals and Systems
+CSE Engg. *
+6OE371
+Data Science
+CSE Engg.
+6CS311
+Image Processing
+CSE Engg.
+6CS312
+Internet of Things
+T. Y.  B.Tech. (Information Technology) SEM - VI  A.Y.  2025-26
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+Professional Core(Theory)
+PCC
+7IT321
+Artificial Intelligence and Machine Learning
+PCC
+7IT322
+Image Processing and Pattern Recognition
+PEC
+Refer List
+Program Elective – 1
+PEC
+Refer List
+Open Elective – 2
+Professional Core (Lab)
+PCC
+7IT371
+IT Practices Lab 2
+POE
+PCC
+7IT372
+IT Practices Lab 3
+PCC
+7IT373
+Parallel Computing Lab
+POE
+Multi-Disciplinary Minor (Minor)
+MDM
+Refer List
+MDM
+Mandatory Courses
+VSEC
+7VSIT346
+Mini-Project-3
+VEC
+7VE301
+Environmental Science
+7VE301
+Total
+B.Tech. (Information Technology) SEM - VII  A.Y.  2025-26
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+Professional Core(Theory)
+PEC
+Refer List
+Program Elective – 2
+PEC
+Refer List
+Program Elective – 3
+7RM401
+Research Methodology
+Lab
+CCA
+7CC401
+Techno-Socio Activities
+Mandatory Courses
+VSEC
+7VSIT401
+Skill Enhancement –  MOOCS/Internships/ Product development
+INTERNSHIP
+7IT445
+Internship
+Total
+B.Tech. (Information Technology) SEM - VIII  A.Y.  2025-26
+Sr. No.
+Category
+Course Code
+Course Name
+Hrs
+MSE/ LA1
+ISE/ LA2
+ESE
+Ext
+PEC
+Refer List
+Program Elective – 4
+PEC
+Refer List
+Program Elective – 5
+MDM
+Refer List
+MDM
+PCC
+7IT421
+Data Mining
+PCC
+7IT471
+Open Source Software Lab
+POE
+PCC
+7IT472
+Data Mining Lab
+POE
+CEP/FP
+7CEIT421
+Project Managment and Technical Writing
+PROJECT
+7IT491
+Project
+Total
+Links to the Detailed Syllabus
+FY:
+FY IT Syllabus Link
+SY:
+SY IT Syllabus Link
+TY:
+TY IT Syllabus Link
+BTech:
+Final Year IT Syllabus Link
+Photos of Dept /Labs with Students and Facility
+Share this page,
+Search
+Search
+Follow Us
+Facebook
+Linkedin
+Instagram

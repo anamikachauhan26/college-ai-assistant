@@ -18,11 +18,15 @@ def embed(text):
     result = client.models.embed_content(model="gemini-embedding-001", contents=text)
     return result.embeddings[0].values
 
-def retrieve(question, top_k=3):
+def retrieve(question, top_k=6):
     q_embedding = embed(question)
     results = collection.query(query_embeddings=[q_embedding], n_results=top_k)
     contexts = results["documents"][0]
-    sources = list(dict.fromkeys(m["source"] for m in results["metadatas"][0]))  # dedupe, keep order
+    sources = list(dict.fromkeys(m["source"] for m in results["metadatas"][0]))
+    print("--- DEBUG: Retrieved sources ---", sources)  # temporary
+    print("--- DEBUG: First 200 chars of each chunk ---")
+    for c in contexts:
+        print(c[:200], "\n---")
     return contexts, sources
 
 def build_prompt(question, contexts):
@@ -35,13 +39,13 @@ Context:
 Question: {question}
 Answer:"""
 
-def answer_question(question, top_k=3):
+def answer_question(question, top_k=6):
     contexts, sources = retrieve(question, top_k)
     prompt = build_prompt(question, contexts)
     response = client.models.generate_content(model="gemini-flash-latest", contents=prompt)
     return {"answer": response.text, "sources": sources}
 
-def answer_question_stream(question, top_k=3):
+def answer_question_stream(question, top_k=6):
     contexts, sources = retrieve(question, top_k)
     prompt = build_prompt(question, contexts)
     stream = client.models.generate_content_stream(model="gemini-flash-latest", contents=prompt)

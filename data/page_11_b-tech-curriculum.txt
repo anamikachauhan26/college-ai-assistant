@@ -1,0 +1,126 @@
+B Tech Curriculum with Minors
+Home
+Department of Computer Engineering
+B Tech Curriculum with Minors
+Quick Menu
+Overview
+B Tech Curriculum with Minors
+M Tech Specialisations and Curriculum
+Academic Planning & Activities
+Resources
+Faculty
+Students Development
+Achievements
+B.Tech Curriculum with Minors
+Vision
+To produce capable computer science & engineering graduates with an aptitude for research and leadership.
+Mission
+To promote excellence in CSE education through relevant academic curricula and innovative teaching learning processes.
+To offer different opportunities to the students for development of professional skills.
+To nurture critical thinking and creativity in the students.
+To inculcate in the student’s life-long learning attitude and sensitivity towards society & environment.
+Curriculum
+The B.Tech curriculum in computer engineering is designed to provide students with a comprehensive education in computer science and engineering. In the Academic Year 2024-2025 curriculum of First year and Second Year is implemented as per NEP 2020 policy which includes multidisciplinary minor (MDM) as well. CSE department has offered MDM in Computer Science and Engineering and FinTech (each of mandatory 14 credits).
+Minors
+The department offers minors in the emerging area like Blockchain and Security.
+Program Educational Objectives (PEOs)
+Graduates of UG Programme after completing their graduation in Computer Science and Engineering will be able to
+PEO1
+Demonstrate technical competency by applying knowledge to solve problems related to engineering issues.
+PEO2
+Exhibit skills and right attitude to succeed in their professional Career.
+PEO3
+Display thirst for emerging technologies and quest for innovation with concern to society and environment.
+Program Outcomes (POs)
+PO1
+Engineering Knowledge
+: Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems.
+PO2
+Problem Analysis
+: Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to WK4)
+PO3
+Design/Development of Solutions
+: Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. (WK5)
+PO4
+Conduct Investigations of Complex Problems
+: Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modeling, analysis & interpretation of data to provide valid conclusions. (WK8)
+PO5
+Engineering Tool Usage
+: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modeling recognizing their limitations to solve complex engineering problems. (WK2 and WK6)
+PO6
+The Engineer and The World
+: Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment. (WK1, WK5, and WK7)
+PO7
+Ethics
+: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8
+Individual and Collaborative Team work
+: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams.
+PO9
+Communication
+: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences.
+PO10
+Project Management and Finance
+: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments.
+PO11
+Life-Long Learning
+: Recognize the need for, and have the preparation and ability for i) Independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)
+Program Specific Outcomes:
+PSO1
+Apply knowledge of Databases, Networking, Security, Software Engineering, AI and allied domains to design, implement and validate efficient solutions for real world problems.
+PSO2
+Apply cutting edge technologies to excel in professional career, entrepreneurship, research and higher studies in Computer Science & Engineering Domain.
+Academic Structure
+Following table shows the WCE-CSE Framework aligned with NEP 2020 Policy for 2023-2027 Batch of B.Tech in CSE.
+Below are the key highlights of the curriculum
+Strong emphasis on
+flexibility
+interdisciplinary exposure
+, and
+hands-on learning
+Balanced distribution across core, elective, and social/human values
+Internship and Research Projects
+integrated for real-world preparedness
+Internship credits are distributed from the 2
+year to the final year.
+Along with 160 credits, a student has to earn a mandatory 14 credits of a Multidisciplinary Minor (MDM) of their choice allocated to them.
+Over and above 174 credits, a student may choose a second minor or honours of their choice, each of 18 credits. This scheme is mostly for fast learners.
+The semester-wise detailed curriculum structure is available at the following links:
+FY CSE:
+Sem I and II Credit System
+SY CSE:
+Sem III and IV Credit System
+TY CSE:
+Sem V and VI Credit System
+Final Year CSE:
+Sem VII and VIII Credit System
+The detailed syllabus is available at:
+FY:
+FY CSE Syllabus
+SY:
+SY CSE Syllabus
+TY:
+TY CSE Syllabus
+B.Tech:
+Final Year CSE Syllabus
+Batchwise Credit System and Course Contents
+Credit_Sytem 18 to 22
+Couse_Contents_18 to 22
+Credit_System 19 to 23
+Course_Contents 19 to 23
+Credit_System 20 to 24
+Course_Contents 20 to 24
+Credit_System 21 to 25
+Course_Contents 21 to 25
+Share this page,
+Search
+Search
+Follow Us
+Facebook
+Linkedin
+Instagram
+
+--- Linked PDF content ---
+
+
+
