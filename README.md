@@ -152,14 +152,12 @@ Tests mock the live Gemini API call so they run instantly and don't depend on ne
 
 ---
 
-## For anyone learning from this project
+## Concepts this project demonstrates
 
-This project is a hands-on implementation of **RAG (Retrieval-Augmented Generation)**, one of the most common patterns for building AI applications on private/custom data. If you're studying this to learn, here's where to go deeper:
-
-- **RAG fundamentals**: [Google's RAG overview](https://cloud.google.com/use-cases/retrieval-augmented-generation) — the concept explained plainly.
-- **Embeddings**: search "sentence embeddings explained" — understanding how text becomes vectors is the core intuition behind all semantic search.
-- **Vector databases**: [ChromaDB docs](https://docs.trychroma.com/) — try running queries directly against a Chroma collection to see similarity search in action.
-- **Prompt engineering**: [Anthropic's prompt engineering guide](https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview) — the same core principles (clear instructions, context grounding) apply across LLM providers.
-- **Evaluating RAG systems**: look up **RAGAS**, an open-source framework for measuring retrieval and answer quality — the natural next step beyond "it looks like it works."
-- **Web scraping ethics**: always check a site's `robots.txt` and only scrape publicly accessible pages — this project only touches the college's own already-public site content.
+- **RAG (Retrieval-Augmented Generation)** — retrieving relevant real data before generation, instead of relying on a model's general training knowledge.
+- **Embeddings & semantic search** — converting text into vectors so search works by meaning, not just keyword matching.
+- **Vector databases** — storing and querying embeddings efficiently (ChromaDB).
+- **Prompt design for grounding** — instructing a model to answer only from provided context, to reduce hallucination.
+- **Web scraping with real-world constraints** — sitemap-based discovery, handling scanned vs. digital PDFs, and respecting `robots.txt`.
+- **Evaluating AI systems** — the natural next step beyond "it looks like it works" is measuring retrieval and answer quality systematically.
 

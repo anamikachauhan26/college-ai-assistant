@@ -23,10 +23,7 @@ def retrieve(question, top_k=6):
     results = collection.query(query_embeddings=[q_embedding], n_results=top_k)
     contexts = results["documents"][0]
     sources = list(dict.fromkeys(m["source"] for m in results["metadatas"][0]))
-    print("--- DEBUG: Retrieved sources ---", sources)  # temporary
-    print("--- DEBUG: First 200 chars of each chunk ---")
-    for c in contexts:
-        print(c[:200], "\n---")
+    
     return contexts, sources
 
 def build_prompt(question, contexts):
