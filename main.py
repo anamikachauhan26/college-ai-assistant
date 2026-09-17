@@ -25,8 +25,9 @@ def ask_stream(q: Question):
         try:
             stream, sources = answer_question_stream(q.question)
             for chunk in stream:
-                if chunk.text:
-                    yield f"data: {json.dumps({'chunk': chunk.text})}\n\n"
+                delta = chunk.choices[0].delta.content
+                if delta:
+                    yield f"data: {json.dumps({'chunk': delta})}\n\n"
             yield f"data: {json.dumps({'done': True, 'sources': sources})}\n\n"
         except Exception as e:
             print(f"ERROR in /ask-stream: {e}")
